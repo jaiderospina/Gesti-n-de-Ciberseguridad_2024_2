@@ -1,6 +1,8 @@
-# Carpeta artículos.
+# Carpeta artículos investigados (complementarios a los ya existentes).
 
-Apreciados colegas, respecto a las referencias producto de investigación que se debe realizar, cada grupo debe aportr 10 de estas (diferentes a la ya existentes y a las de los demás grupos). Por lo que para efectos de la actividad registrar estas en el siguiente cuadro con el objeo de evitar duplicaiones de las mismas.
+Apreciados colegas, respecto a las referencias producto de investigación que se debe realizar, cada grupo debe aportr 8 de estas (diferentes a la ya existentes y a las de los demás grupos). Por lo que para efectos de la actividad registrar estas en el siguiente cuadro con el objeo de evitar duplicaiones de las mismas.
+
+A manera de ejemplo realizó table y dejo dos ejemplificiones.
 
 ------------------------------------------------------------------//////////////////////////------------------------------------------/////////////////////------------------------------------------------
 __________________________________________________________________________________________________________________________________________
