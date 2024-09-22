@@ -1,1 +1,1 @@
-# Gesti-n-de-Ciberseguridad_2024_2
+# Gestión de la Ciberseguridad_2024_2
