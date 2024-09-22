@@ -80,7 +80,7 @@ En resumen, la identidad digital y la huella digital son componentes esenciales 
 - **Desafíos y tendencias en la identidad digital para la seguridad de las infraestructuras críticas**.
 - **Identidad Digital: Desafios y Tendencias**.
 
-3.  Se ha creado una carpeta llamada ArticulosConsulta en la cúal deberan ser cargados los artículos consultados (paper, estánderes y trabajos de grado).
+3.  Se ha creado una carpeta llamada [ArticulosConsulta] (ArticulosConsulta) en la cúal deberan ser cargados los artículos consultados (paper, estánderes y trabajos de grado).
 4. Cada grupo deberá subir mínimo 8 artículos diferentes a los ya existentes.
 5. Las fuentes pueden ser empleadas por cualquier grupo, indiferente de si son las que aportarón o no al repositorio de consulta.
 6. Extensión mínima del artículo 5 páginas, letra 12 arial, espacio y medio.
