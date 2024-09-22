@@ -4,7 +4,7 @@ Apreciados colegas, respecto a las referencias producto de investigación que se
 
 A manera de ejemplo realizó tabla y dejo dos ejemplificiones.
 
-** NOTAS **: 
+**NOTAS**: 
 - El artículo debe ser cargado a la carpeta, lo que implica que la url debe permitir su descarga, o como mínimo su recurso de investigación haber permitido la consecución real del recurso. 
 - No es válido para la construcción de un artículo a nivel de maestria,  el uso de URL sobre artículos de opinión. 
 
