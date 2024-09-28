@@ -174,8 +174,13 @@ Actividad en clase.
 
 [Tallerbásico git-github](https://github.com/jaiderospina/HABILIDADES_CIBERNETICAS_20241/blob/main/GIT/TallerGIT.pdf)
 
-# VIDEO - GUÍA
-## Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.
+# RECURSOS 
+
+## VIDEO - GUÍA
+### Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.
 
 Para un paso a paso sobre como agergar colaboradores y aceptar la invitación de clic sobre el texto.
 [https://VIDEO](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
+
+## 
+[git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
