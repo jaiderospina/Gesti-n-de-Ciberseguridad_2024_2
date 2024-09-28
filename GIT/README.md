@@ -183,5 +183,4 @@ Para un paso a paso sobre como agergar colaboradores y aceptar la invitación de
 
 
 
-
-[![Alt text](https://img.youtube.com/vi/G_zKrG2mkrg?si=sYOJprXKoBLAIB0S/0.jpg)](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
+[GitHub Pages]([https://pages.github.com](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
