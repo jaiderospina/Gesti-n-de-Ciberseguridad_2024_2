@@ -15,6 +15,13 @@
   
 **Grupo 3**
 
+  
+   Risk Management
+    Governance
+    Business  Enablement
+    Leadership Skills
+  
+   
    Security Operations Center (SOC) Essential Functions
    Incident  Response
    Network Security Monitoring
