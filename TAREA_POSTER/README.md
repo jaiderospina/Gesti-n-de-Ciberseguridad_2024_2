@@ -1,9 +1,10 @@
 ## Taller Mapa Mental del CISO
 
-Apreciado estudiantes como mencionamos en clase se debe realizar el estudio del [Poster_CISO_SANS.pdf]
-(TAREA_POSTER/Poster_CISO_SANS.pdf)  de manera individual. 
-Y en grupo, profunduzar las temáticas  según se distribuye a continuación y realizar sus aportes en este repositorio.
-Se puede ( y debe) hacer uso de recursos como listas nuemeradas, imágenes e hiperenlaces entre otros. 
+Apreciado estudiantes cordial saludo. Respeto a la actidad en casa tener en cuenta. 
+
+* Realizar de manera individual el estudio del [Poster_CISO_SANS.pdf](TAREA_POSTER/Poster_CISO_SANS.pdf). 
+* En grupo, profunduzar las temáticas  según se distribuye a continuación y realizar sus aportes en este repositorio.
+* Se puede (y debe) hacer uso de recursos como listas nuemeradas, imágenes e hiperenlaces entre otros. 
 
 **Grupo 1**
 
