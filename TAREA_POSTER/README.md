@@ -13,17 +13,17 @@
     Governance
     Business  Enablement
     Leadership Skills
- 
+  
 **Grupo 3**
 
   Security Operations Center (SOC) Essential Functions
-    Incident  Response
-    Network Security Monitoring
-    Threat  Intelligence
+  Incident  Response
+  Network Security Monitoring
+  Threat  Intelligence
 
 **Grupo 4**
 
-Security Operations Center (SOC) Essential Functions
+  Security Operations Center (SOC) Essential Functions
   * Forensics
   * Command Center
   * Self Assessment
