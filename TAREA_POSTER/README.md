@@ -1,4 +1,5 @@
-## Manual de Configuración Básica de Git
+## Taller Mapa Mental del CISO
+Apreciado estudiantes como mencionamos en clase se debe realizar el estudio [Poster_CISO_SANS.pdf](TAREA_POSTER/Poster_CISO_SANS.pdf)
 
 **Grupo 1**
 
@@ -22,7 +23,7 @@
 
 **Grupo 4**
 
-   Security Operations Center (SOC) Essential Functions
-   Forensics
-   Command Center
-   Self Assessment
+    Security Operations Center (SOC) Essential Functions
+    Forensics
+    Command Center
+    Self Assessment
