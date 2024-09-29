@@ -1,6 +1,5 @@
 ## Manual de Configuración Básica de Git
 
-### Índice
 **Grupo 1**
 
     Legal and Regulatory
@@ -16,14 +15,14 @@
   
 **Grupo 3**
 
-  Security Operations Center (SOC) Essential Functions
-  Incident  Response
-  Network Security Monitoring
-  Threat  Intelligence
+   Security Operations Center (SOC) Essential Functions
+   Incident  Response
+   Network Security Monitoring
+   Threat  Intelligence
 
 **Grupo 4**
 
-  Security Operations Center (SOC) Essential Functions
-  * Forensics
-  * Command Center
-  * Self Assessment
+   Security Operations Center (SOC) Essential Functions
+   Forensics
+   Command Center
+   Self Assessment
