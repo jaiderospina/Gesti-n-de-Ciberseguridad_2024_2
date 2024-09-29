@@ -14,18 +14,11 @@
     Leadership Skills
   
 **Grupo 3**
-
-  
-   Risk Management
-    Governance
-    Business  Enablement
-    Leadership Skills
-  
-   
-   Security Operations Center (SOC) Essential Functions
-   Incident  Response
-   Network Security Monitoring
-   Threat  Intelligence
+    
+    Security Operations Center (SOC) Essential Functions
+    Incident  Response
+    Network Security Monitoring
+    Threat  Intelligence
 
 **Grupo 4**
 
