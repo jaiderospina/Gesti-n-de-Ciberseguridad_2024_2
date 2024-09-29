@@ -1,22 +1,20 @@
 ## Manual de Configuración Básica de Git
 
 ### Índice
-Grupo 1
+**Grupo 1**
 
     Legal and Regulatory
     Security Operations
-     Identity and Access Management
+    Identity and Access Management
 
-
-Grupo 2
+**Grupo 2**
+    
     Risk Management
     Governance
     Business  Enablement
     Leadership Skills
-
-
  
-Grupo 3
+**Grupo 3**
 
   Security Operations Center (SOC) Essential Functions
     Incident  Response
@@ -25,7 +23,7 @@ Grupo 3
 
 **Grupo 4**
 
-- Security Operations Center (SOC) Essential Functions
+Security Operations Center (SOC) Essential Functions
   * Forensics
   * Command Center
   * Self Assessment
