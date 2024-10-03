@@ -11,6 +11,7 @@ Apreciado estudiantes cordial saludo. Respeto a la actidad en casa tener en cuen
     Legal and Regulatory
     Security Operations
     Identity and Access Management
+[METODOLOGÍA ANÁLISIS DE TRÁFICO CON WIRESHARK.pdf](https://github.com/user-attachments/files/17248661/METODOLOGIA.ANALISIS.DE.TRAFICO.CON.WIRESHARK.pdf)
 
     Prueba de Edición, Profe
 
