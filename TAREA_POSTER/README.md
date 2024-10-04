@@ -174,6 +174,7 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
 --- 
 
 # Identity and Access Management (IAM) 
+<img src="[URL_DE_LA_IMAGEN_1](https://www.bing.com/images/search?view=detailV2&ccid=PeAbSSzW&id=FC94571CF5AF7C3BAF5EE47706D13B354CC6E2F9&thid=OIP.PeAbSSzWJGfj68HrqlnRgwHaEK&mediaurl=https%3a%2f%2f1178133041.rsc.cdn77.org%2fwp-content%2fuploads%2f2020%2f07%2fIdentity-and-Access-Management-Framework-for-Remote-Business-Scalability.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3de01b492cd62467e3ebc1ebaa59d183%3frik%3d%252beLGTDU70QZ35A%26pid%3dImgRaw%26r%3d0&exph=900&expw=1600&q=Identity+and+Access+Management+(IAM)+imagen&simid=608036261819384333&FORM=IRPRST&ck=24DC82A76D0358B0488FAFA14C8DFD31&selectedIndex=5&itb=0&ajaxhist=0&ajaxserp=0)" alt="Descripción de la imagen 1" width="600"/>
 
 ## Gestión de Identidades 
 
