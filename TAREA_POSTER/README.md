@@ -236,7 +236,7 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
 * *Tatiana Sánchez*
 * *Cristian Toro*
 * *Miguel Amaya*
-* *Andres Parado*
+* *Andres Parrado*
 
 # **CISO MIND MAP.**
 
