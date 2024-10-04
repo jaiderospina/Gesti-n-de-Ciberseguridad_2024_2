@@ -230,6 +230,64 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
     Governance
     Business  Enablement
     Leadership Skills
+    
+**Nombres**
+* *Tatiana Sánchez*
+* *Cristian Toro*
+* *Miguel Amaya*
+* *Andres Parado*
+
+# **CISO MIND MAP.**
+
+# Risk Frameworks:
+El CISO de la compañía utiliza NIST RMF para identificar activos críticos y aplicar controles de seguridad. Luego, implementa FAIR para cuantificar los riesgos en términos financieros y justificar inversiones en ciberseguridad.
+
+* **FAIR (Factor Analysis of Information Risk):** Framework que cuantifica los riesgos cibernéticos en términos financieros.
+* **NIST RMF (Risk Management Framework):** Proporciona un proceso detallado para gestionar los riesgos de seguridad de la información.
+* **OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation):** Enfoque para la evaluación de riesgos basado en la gestión de activos críticos.
+* **TARA (Threat Agent Risk Assessment):** Ayuda a evaluar los riesgos desde la perspectiva de agentes de amenaza específicos.
+
+## Risk Assessment Methodology
+**Ejemplo:** El CISO crea un proceso para evaluar los riesgos, comenzando con la identificación de amenazas, evaluación de vulnerabilidades y determinación del impacto. Utiliza evaluaciones periódicas para ajustar controles.
+
+## Business Impact Analysis (BIA)
+**Ejemplo:** Se realiza un BIA para determinar cómo una caída de 24 horas del sistema de facturación afectaría los ingresos de la empresa. El CISO trabaja con finanzas para priorizar este sistema en el plan de recuperación.
+
+## Risk Assessment Process
+**Ejemplo:** El CISO coordina una auditoría anual para identificar nuevas amenazas, clasificando los riesgos como "alto", "medio" o "bajo", y aplicando controles adicionales en las áreas críticas.
+
+## Risk Analysis and Quantification
+ **Ejemplo:** Usando el marco FAIR, el CISO determina que un ataque de ransomware podría costar $X millones si no se implementan protecciones adecuadas, justificando la inversión en backups seguros y planes de respuesta.
+
+## Security Awareness
+**Ejemplo:** El CISO lanza un programa de formación en ciberseguridad que incluye simulaciones de ataques de phishing para educar a los empleados sobre cómo identificar correos fraudulentos.
+
+## Vulnerability Management
+**Ejemplo:** El equipo de seguridad, bajo la dirección del CISO, utiliza un escáner de vulnerabilidades semanal para identificar problemas en los sistemas y aplicar parches de seguridad críticos.
+
+## Vendor Risk Management
+**Ejemplo:** Antes de firmar con un proveedor de servicios en la nube, el CISO evalúa su seguridad a través de una auditoría de cumplimiento de estándares como ISO 27001, verificando que cumpla con las políticas de seguridad.
+
+## Disaster Recovery
+**Ejemplo:** El CISO diseña un plan de recuperación ante desastres que incluye respaldos de datos en sitios remotos y pruebas regulares para garantizar que la organización pueda recuperarse rápidamente tras un ataque o interrupción.
+
+## Business Continuity Planning (BCP)
+**Ejemplo:** Durante la pandemia, el CISO lidera la creación de un plan de continuidad que permite a los empleados trabajar desde casa de manera segura, asegurando que los servicios críticos se mantengan operativos.
+
+## Policies and Procedures
+**Ejemplo:** El CISO redacta políticas de acceso a la red, procedimientos de seguridad de la información, y guías para la gestión de incidentes, asegurando que todos los empleados cumplan con las normas de seguridad.
+
+## Risk Treatment
+**Ejemplo:** Después de evaluar un riesgo alto de ciberataque, el CISO decide mitigar el riesgo instalando firewalls avanzados y contratando un seguro cibernético para transferir parte del riesgo a una aseguradora.
+
+***RECUERDA*** 
+* *Un CISO gestiona los riesgos cibernéticos aplicando marcos de trabajo como NIST RMF, FAIR, OCTAVE y TARA para identificar y cuantificar amenazas. Evalúa riesgos mediante análisis de impacto en el negocio y procedimientos estructurados. Implementa planes de recuperación y continuidad ante desastres para asegurar operaciones críticas. La formación de empleados, gestión de vulnerabilidades, seguridad física y control de proveedores son fundamentales. Las políticas de seguridad y tratamiento de riesgos guían la mitigación y respuestas a incidentes, asegurando la protección integral de los activos de la empresa.*
+
+
+
+***Referencia:*** chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pentest.sans.org/security-resources/posters/ciso-mind-map-vulnerability-management-maturity-model/205/download 
+
+
 
 # Business  Enablement
 
