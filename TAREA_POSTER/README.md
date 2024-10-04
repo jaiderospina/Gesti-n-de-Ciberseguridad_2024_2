@@ -7,127 +7,193 @@ Apreciado estudiantes cordial saludo. Respeto a la actidad en casa tener en cuen
 * Se puede (y debe) hacer uso de recursos como listas nuemeradas, imágenes e hiperenlaces entre otros. 
 
 **Grupo 1**
-1.	Legal and Regulatory
- 
-a.	Cumplimiento Normativo
-•	Identificación de regulaciones relevantes (GDPR, HIPAA, PCI-DSS, etc.)
-•	Auditorías de cumplimiento y reportes.
+# Legal and Regulatory
+
+## Cumplimiento Normativo
+
+- **Identificación de regulaciones relevantes:** GDPR, HIPAA, PCI-DSS, etc.
+- **Auditorías de cumplimiento y reportes.**
 
 Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organización cumpla con las regulaciones y normas de seguridad relevantes, y que los riesgos de seguridad sean gestionados de manera efectiva.
 
-ISO 27001: Estándar internacional para la gestión de la seguridad de la 		información.
+### Principales Estándares y Marcos de Referencia
 
-###GDPR: Reglamento General de Protección de Datos, que regula la privacidad y la protección de datos personales en la Unión Europea.
-###COBIT: Marco de referencia para la gobernanza y la gestión de la tecnología de la información.
-###ITIL: Marco de referencia para la gestión de servicios de tecnología de la información.
-###NERC CIP: Estándar de seguridad para la industria de energía. 
-####CIS Controls: Estándar de seguridad para la protección de sistemas de información.
-- Ley 1581 de 2012: Regula la protección de datos personales en Colombia.
-- Decreto 1377 de 2013: Reglamenta la ley 1581 y establece disposiciones para la protección de datos personales.
-- Ley 1273 de 2009: Regula la protección de la información y los datos personales en el sector financiero.
-- Circular 029 de 2014: Emitida por la Superintendencia de Industria y Comercio, establece directrices para la protección de datos personales.
-- ISO 27001: Estándar internacional para la gestión de la seguridad de la información, que incluye requisitos para la privacidad.
-- NIST Cybersecurity Framework: Marco de referencia para la gestión de riesgos y la seguridad de la información, que incluye requisitos para la privacidad.
-- COBIT: Marco de referencia para la gobernanza y la gestión de la tecnología de la información, que incluye requisitos para la privacidad.
-1. Decreto 1377 de 2013: Reglamenta la ley 1581 y establece disposiciones para la protección de datos personales.
-4. ISO 19011: Estándar internacional para la auditoría de sistemas de gestión.
-10. Ley 1676 de 2013: Regula la gestión de la tecnología de la información en el sector público.
-b.	Políticas y Procedimientos
-•	Desarrollo y mantenimiento de políticas de seguridad.
-•	Formación del personal sobre requisitos legales.
+- **ISO 27001:** Estándar internacional para la gestión de la seguridad de la información.
+- **GDPR:** Reglamento General de Protección de Datos en la Unión Europea.
+- **COBIT:** Marco de referencia para la gobernanza y la gestión de la tecnología de la información.
+- **ITIL:** Marco de referencia para la gestión de servicios de tecnología de la información.
+- **NERC CIP:** Estándar de seguridad para la industria de energía.
+- **CIS Controls:** Estándar de seguridad para la protección de sistemas de información.
 
-c.	Gestión de Riesgos
-•	Evaluación de riesgos legales.
-•	Estrategias de mitigación y respuesta.
+### Legislación en Colombia
 
-d.	Relaciones con Autoridades
-•	Colaboración con organismos reguladores.
-•	Manejo de notificaciones de violaciones de datos.
+- **Ley 1581 de 2012:** Protección de datos personales en Colombia.
+- **Decreto 1377 de 2013:** Reglamenta la ley 1581.
+- **Ley 1273 de 2009:** Protección de la información y datos en el sector financiero.
+- **Circular 029 de 2014:** Directrices para la protección de datos personales.
 
-2.	Security Operations- Centro de Operaciones de Seguridad (SOC)
- 
-a.	Prevención
-•	Políticas y Procedimientos
-•	Desarrollo de políticas de seguridad claras y accesibles.
-•	Implementación de procedimientos de seguridad en toda la organización.
-•	Seguridad en la Red
-•	Implementación de firewalls y sistemas de prevención de intrusiones (IPS).
-•	Configuración de redes seguras (segmentación, VLANs).
-•	Controles de Acceso
-•	Uso de autenticación multifactor (MFA) y políticas de contraseñas fuertes.
-•	Implementación de control de acceso basado en roles (RBAC).
-•	Conciencia y Capacitación
-•	Programas de formación y simulacros de phishing para empleados.
-•	Sensibilización sobre las mejores prácticas de seguridad.
-•	Pruebas de Vulnerabilidad
-•	Ejecución de pruebas de penetración y escaneos de vulnerabilidad periódicos.
-•	Evaluación de la efectividad de las medidas de seguridad existentes
-•	Monitoreo continuo de amenazas.
-•	Gestión y respuesta a incidentes.
-•	Análisis de Vulnerabilidades
-•	Pruebas de penetración.
-•	Evaluaciones de seguridad y remediación.
-•	Gestión de Incidentes
-•	Protocolos de respuesta a incidentes.
-•	Análisis forense y documentación.
-•	Gestión de Parches
-•	Estrategia de actualizaciones de seguridad.
-•	Seguimiento de parches críticos.
-b.	Detección
-•	Monitoreo Continuo
-•	Uso de herramientas de monitoreo y gestión de eventos de seguridad (SIEM).
-•	Monitoreo de logs y tráfico en tiempo real para identificar anomalías.
-•	Alertas y Notificaciones
-•	Configuración de alertas para eventos sospechosos y patrones inusuales.
-•	Clasificación de alertas según severidad para priorizar la respuesta.
-•	Análisis de Comportamiento
-•	Implementación de análisis de comportamiento de usuarios y entidades (UEBA).
-•	Detección de actividades anómalas que puedan indicar un compromiso.
-•	Revisión de Registros
-•	Auditorías regulares de logs de acceso y eventos de seguridad.
-•	Análisis forense de incidentes pasados para identificar patrones.
-c.	Respuesta
-•	Plan de Respuesta a Incidentes
-•	Desarrollo de un plan estructurado que defina roles, responsabilidades y procedimientos.
-•	Realización de simulacros de respuesta a incidentes para preparar al equipo.
-•	Contención y Erradicación
-•	Estrategias para contener y erradicar la amenaza (aislar sistemas, eliminar malware).
-•	Acciones correctivas inmediatas para minimizar el impacto.
-•	Recuperación
-•	Procedimientos para restaurar sistemas y servicios afectados.
-•	Validación de la integridad de los sistemas antes de su reintegración.
-•	Análisis Post-Incidente
-•	Evaluación del incidente para identificar lecciones aprendidas.
-•	Actualización de políticas y procedimientos según sea necesario.
+### Otros Marcos de Referencia
 
-3.	 Identity and Access Management (IAM)
-a.	Gestión de Identidades
-•	Creación y eliminación de cuentas de usuario.
-•	Mantenimiento de registros de acceso.
-b.	Control de Acceso
-•	Implementación de políticas de acceso basado en roles (RBAC).
-•	Autenticación multifactor (MFA).
-c.	Monitoreo de Accesos
-•	Auditorías de acceso y análisis de logs.
-•	Detección de accesos no autorizados.
-d.	Conciencia y Capacitación
-•	Entrenamiento sobre buenas prácticas de gestión de identidades.
-•	Simulaciones de phishing y manejo de credenciales.
-e.	Revisión y auditoría de acceso: 
-•	Realizar revisiones y auditorías periódicas para asegurarse de que el acceso a los sistemas y datos sea apropiado y esté actualizado.
-f.	Implementación de tecnologías de seguridad: 
-•	Utilizar tecnologías de seguridad como autenticación de dos factores, tokens de seguridad y biometría para fortalecer la gestión de identidades y acceso.
-g.	Desarrollo de políticas y procedimientos: 
-•	Establecer políticas y procedimientos claros para la gestión de identidades y acceso
+- **NIST Cybersecurity Framework:** Gestión de riesgos y seguridad de la información.
+- **ISO 19011:** Estándar para la auditoría de sistemas de gestión.
+- **Ley 1676 de 2013:** Gestión de la tecnología de la información en el sector público.
 
-https://rafeeqrehman.com/2022/04/24/ciso-mindmap-2022-what-do-infosec-professionals-really-do/
+---
 
-https://www.freelancermap.com/blog/es/que-hace-chief-information-security-officer-ciso/#Intro
+## Políticas y Procedimientos
 
+- **Desarrollo y mantenimiento de políticas de seguridad.**
+- **Formación del personal sobre requisitos legales.**
 
-    Legal and Regulatory
-    Security Operations
-    Identity and Access Management
+## Gestión de Riesgos
+
+- **Evaluación de riesgos legales.**
+- **Estrategias de mitigación y respuesta.**
+
+## Relaciones con Autoridades
+
+- **Colaboración con organismos reguladores.**
+- **Manejo de notificaciones de violaciones de datos.**
+
+---
+
+# Security Operations - Centro de Operaciones de Seguridad (SOC)
+
+## Prevención
+
+### Políticas y Procedimientos
+
+- **Desarrollo de políticas de seguridad claras y accesibles.**
+- **Implementación de procedimientos de seguridad en toda la organización.**
+
+### Seguridad en la Red
+
+- **Implementación de firewalls y sistemas de prevención de intrusiones (IPS).**
+- **Configuración de redes seguras (segmentación, VLANs).**
+
+### Controles de Acceso
+
+- **Autenticación multifactor (MFA) y políticas de contraseñas fuertes.**
+- **Control de acceso basado en roles (RBAC).**
+
+### Conciencia y Capacitación
+
+- **Programas de formación y simulacros de phishing para empleados.**
+- **Sensibilización sobre las mejores prácticas de seguridad.**
+
+### Pruebas de Vulnerabilidad
+
+- **Ejecución de pruebas de penetración y escaneos de vulnerabilidad periódicos.**
+- **Monitoreo continuo de amenazas y gestión de incidentes.**
+
+---
+
+## Análisis de Vulnerabilidades
+
+- **Pruebas de penetración.**
+- **Evaluaciones de seguridad y remediación.**
+
+## Gestión de Incidentes
+
+- **Protocolos de respuesta a incidentes.**
+- **Análisis forense y documentación.**
+
+## Gestión de Parches
+
+- **Estrategia de actualizaciones de seguridad.**
+- **Seguimiento de parches críticos.**
+
+---
+
+## Detección
+
+### Monitoreo Continuo
+
+- **Uso de herramientas de monitoreo y gestión de eventos de seguridad (SIEM).**
+- **Monitoreo de logs y tráfico en tiempo real para identificar anomalías.**
+
+### Alertas y Notificaciones
+
+- **Configuración de alertas para eventos sospechosos.**
+- **Clasificación de alertas según severidad.**
+
+### Análisis de Comportamiento
+
+- **Implementación de análisis de comportamiento de usuarios y entidades (UEBA).**
+- **Detección de actividades anómalas.**
+
+### Revisión de Registros
+
+- **Auditorías regulares de logs de acceso y eventos de seguridad.**
+- **Análisis forense de incidentes pasados.**
+
+---
+
+## Respuesta
+
+### Plan de Respuesta a Incidentes
+
+- **Desarrollo de un plan estructurado que defina roles y procedimientos.**
+- **Simulacros de respuesta a incidentes.**
+
+### Contención y Erradicación
+
+- **Estrategias para contener y erradicar la amenaza.**
+- **Acciones correctivas inmediatas.**
+
+### Recuperación
+
+- **Procedimientos para restaurar sistemas y servicios afectados.**
+- **Validación de la integridad de los sistemas.**
+
+### Análisis Post-Incidente
+
+- **Evaluación del incidente para identificar lecciones aprendidas.**
+- **Actualización de políticas y procedimientos.**
+
+---
+
+# Identity and Access Management (IAM)
+
+## Gestión de Identidades
+
+- **Creación y eliminación de cuentas de usuario.**
+- **Mantenimiento de registros de acceso.**
+
+## Control de Acceso
+
+- **Implementación de políticas de acceso basado en roles (RBAC).**
+- **Autenticación multifactor (MFA).**
+
+## Monitoreo de Accesos
+
+- **Auditorías de acceso y análisis de logs.**
+- **Detección de accesos no autorizados.**
+
+## Conciencia y Capacitación
+
+- **Entrenamiento sobre buenas prácticas de gestión de identidades.**
+- **Simulaciones de phishing y manejo de credenciales.**
+
+## Revisión y Auditoría de Acceso
+
+- **Realizar revisiones periódicas para asegurarse de que el acceso a los sistemas sea apropiado.**
+
+## Implementación de Tecnologías de Seguridad
+
+- **Utilizar autenticación de dos factores, tokens de seguridad y biometría.**
+
+## Desarrollo de Políticas y Procedimientos
+
+- **Establecer políticas claras para la gestión de identidades y acceso.**
+
+---
+
+## Biografía
+
+- [CISO Mindmap 2022](https://rafeeqrehman.com/2022/04/24/ciso-mindmap-2022-what-do-infosec-professionals-really-do/)
+- [¿Qué hace un Chief Information Security Officer (CISO)?](https://www.freelancermap.com/blog/es/que-hace-chief-information-security-officer-ciso/#Intro)
+
 [METODOLOGÍA ANÁLISIS DE TRÁFICO CON WIRESHARK.pdf](https://github.com/user-attachments/files/17248661/METODOLOGIA.ANALISIS.DE.TRAFICO.CON.WIRESHARK.pdf)
 
     Prueba de Edición, Profe
