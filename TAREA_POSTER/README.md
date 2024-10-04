@@ -459,6 +459,15 @@ _Proporcionar orientación y apoyo a los miembros del equipo de seguridad, ayud�
     Network Security Monitoring
     Threat  Intelligence
 
+**Integrantes**
+* *Andrés Berdugo*
+* *Andrés Molano*
+* *Enrique Ramírez*
+* *Oscar Vega*
+* *Pedro Téllez*
+* *Raúl Garay*
+
+
 **Grupo 4**
 
     Security Operations Center (SOC) Essential Functions
