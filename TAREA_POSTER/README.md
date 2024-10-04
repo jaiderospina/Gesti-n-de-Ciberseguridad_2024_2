@@ -7,187 +7,371 @@ Apreciado estudiantes cordial saludo. Respeto a la actidad en casa tener en cuen
 * Se puede (y debe) hacer uso de recursos como listas nuemeradas, imágenes e hiperenlaces entre otros. 
 
 **Grupo 1**
-# <span style="color:blue;">Legal and Regulatory</span>
+# Legal and Regulatory 
 
-## Cumplimiento Normativo
+  
 
-- **Identificación de regulaciones relevantes:** GDPR, HIPAA, PCI-DSS, etc.
-- **Auditorías de cumplimiento y reportes.**
+## Cumplimiento Normativo 
 
-Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organización cumpla con las regulaciones y normas de seguridad relevantes, y que los riesgos de seguridad sean gestionados de manera efectiva.
+  
 
-### Principales Estándares y Marcos de Referencia
+- **Identificación de regulaciones relevantes:** GDPR, HIPAA, PCI-DSS, etc. 
 
-- **ISO 27001:** Estándar internacional para la gestión de la seguridad de la información.
-- **GDPR:** Reglamento General de Protección de Datos en la Unión Europea.
-- **COBIT:** Marco de referencia para la gobernanza y la gestión de la tecnología de la información.
-- **ITIL:** Marco de referencia para la gestión de servicios de tecnología de la información.
-- **NERC CIP:** Estándar de seguridad para la industria de energía.
-- **CIS Controls:** Estándar de seguridad para la protección de sistemas de información.
+- **Auditorías de cumplimiento y reportes.** 
 
-### Legislación en Colombia
+  
 
-- **Ley 1581 de 2012:** Protección de datos personales en Colombia.
-- **Decreto 1377 de 2013:** Reglamenta la ley 1581.
-- **Ley 1273 de 2009:** Protección de la información y datos en el sector financiero.
-- **Circular 029 de 2014:** Directrices para la protección de datos personales.
+Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organización cumpla con las regulaciones y normas de seguridad relevantes, y que los riesgos de seguridad sean gestionados de manera efectiva. 
 
-### Otros Marcos de Referencia
+  
 
-- **NIST Cybersecurity Framework:** Gestión de riesgos y seguridad de la información.
-- **ISO 19011:** Estándar para la auditoría de sistemas de gestión.
-- **Ley 1676 de 2013:** Gestión de la tecnología de la información en el sector público.
+### Principales Estándares y Marcos de Referencia 
 
----
+  
 
-## Políticas y Procedimientos
+- **ISO 27001:** Estándar internacional para la gestión de la seguridad de la información. 
 
-- **Desarrollo y mantenimiento de políticas de seguridad.**
-- **Formación del personal sobre requisitos legales.**
+- **GDPR:** Reglamento General de Protección de Datos en la Unión Europea. 
 
-## Gestión de Riesgos
+- **COBIT:** Marco de referencia para la gobernanza y la gestión de la tecnología de la información. 
 
-- **Evaluación de riesgos legales.**
-- **Estrategias de mitigación y respuesta.**
+- **ITIL:** Marco de referencia para la gestión de servicios de tecnología de la información. 
 
-## Relaciones con Autoridades
+- **NERC CIP:** Estándar de seguridad para la industria de energía. 
 
-- **Colaboración con organismos reguladores.**
-- **Manejo de notificaciones de violaciones de datos.**
+- **CIS Controls:** Estándar de seguridad para la protección de sistemas de información. 
 
----
+  
 
-# Security Operations - Centro de Operaciones de Seguridad (SOC)
+### Legislación en Colombia 
 
-## Prevención
+  
 
-### Políticas y Procedimientos
+- **Ley 1581 de 2012:** Protección de datos personales en Colombia. 
 
-- **Desarrollo de políticas de seguridad claras y accesibles.**
-- **Implementación de procedimientos de seguridad en toda la organización.**
+- **Decreto 1377 de 2013:** Reglamenta la ley 1581. 
 
-### Seguridad en la Red
+- **Ley 1273 de 2009:** Protección de la información y datos en el sector financiero. 
 
-- **Implementación de firewalls y sistemas de prevención de intrusiones (IPS).**
-- **Configuración de redes seguras (segmentación, VLANs).**
+- **Circular 029 de 2014:** Directrices para la protección de datos personales. 
 
-### Controles de Acceso
+  
 
-- **Autenticación multifactor (MFA) y políticas de contraseñas fuertes.**
-- **Control de acceso basado en roles (RBAC).**
+### Otros Marcos de Referencia 
 
-### Conciencia y Capacitación
+  
 
-- **Programas de formación y simulacros de phishing para empleados.**
-- **Sensibilización sobre las mejores prácticas de seguridad.**
+- **NIST Cybersecurity Framework:** Gestión de riesgos y seguridad de la información. 
 
-### Pruebas de Vulnerabilidad
+- **ISO 19011:** Estándar para la auditoría de sistemas de gestión. 
 
-- **Ejecución de pruebas de penetración y escaneos de vulnerabilidad periódicos.**
-- **Monitoreo continuo de amenazas y gestión de incidentes.**
+- **Ley 1676 de 2013:** Gestión de la tecnología de la información en el sector público. 
 
----
+  
 
-## Análisis de Vulnerabilidades
+--- 
 
-- **Pruebas de penetración.**
-- **Evaluaciones de seguridad y remediación.**
+  
 
-## Gestión de Incidentes
+## Políticas y Procedimientos 
 
-- **Protocolos de respuesta a incidentes.**
-- **Análisis forense y documentación.**
+  
 
-## Gestión de Parches
+- **Desarrollo y mantenimiento de políticas de seguridad.** 
 
-- **Estrategia de actualizaciones de seguridad.**
-- **Seguimiento de parches críticos.**
+- **Formación del personal sobre requisitos legales.** 
 
----
+  
 
-## Detección
+## Gestión de Riesgos 
 
-### Monitoreo Continuo
+  
 
-- **Uso de herramientas de monitoreo y gestión de eventos de seguridad (SIEM).**
-- **Monitoreo de logs y tráfico en tiempo real para identificar anomalías.**
+- **Evaluación de riesgos legales.** 
 
-### Alertas y Notificaciones
+- **Estrategias de mitigación y respuesta.** 
 
-- **Configuración de alertas para eventos sospechosos.**
-- **Clasificación de alertas según severidad.**
+  
 
-### Análisis de Comportamiento
+## Relaciones con Autoridades 
 
-- **Implementación de análisis de comportamiento de usuarios y entidades (UEBA).**
-- **Detección de actividades anómalas.**
+  
 
-### Revisión de Registros
+- **Colaboración con organismos reguladores.** 
 
-- **Auditorías regulares de logs de acceso y eventos de seguridad.**
-- **Análisis forense de incidentes pasados.**
+- **Manejo de notificaciones de violaciones de datos.** 
 
----
+  
 
-## Respuesta
+--- 
 
-### Plan de Respuesta a Incidentes
+  
 
-- **Desarrollo de un plan estructurado que defina roles y procedimientos.**
-- **Simulacros de respuesta a incidentes.**
+# Security Operations - Centro de Operaciones de Seguridad (SOC) 
 
-### Contención y Erradicación
+  
 
-- **Estrategias para contener y erradicar la amenaza.**
-- **Acciones correctivas inmediatas.**
+## Prevención 
 
-### Recuperación
+  
 
-- **Procedimientos para restaurar sistemas y servicios afectados.**
-- **Validación de la integridad de los sistemas.**
+### Políticas y Procedimientos 
 
-### Análisis Post-Incidente
+  
 
-- **Evaluación del incidente para identificar lecciones aprendidas.**
-- **Actualización de políticas y procedimientos.**
+- **Desarrollo de políticas de seguridad claras y accesibles.** 
 
----
+- **Implementación de procedimientos de seguridad en toda la organización.** 
 
-# Identity and Access Management (IAM)
+  
 
-## Gestión de Identidades
+### Seguridad en la Red 
 
-- **Creación y eliminación de cuentas de usuario.**
-- **Mantenimiento de registros de acceso.**
+  
 
-## Control de Acceso
+- **Implementación de firewalls y sistemas de prevención de intrusiones (IPS).** 
 
-- **Implementación de políticas de acceso basado en roles (RBAC).**
-- **Autenticación multifactor (MFA).**
+- **Configuración de redes seguras (segmentación, VLANs).** 
 
-## Monitoreo de Accesos
+  
 
-- **Auditorías de acceso y análisis de logs.**
-- **Detección de accesos no autorizados.**
+### Controles de Acceso 
 
-## Conciencia y Capacitación
+  
 
-- **Entrenamiento sobre buenas prácticas de gestión de identidades.**
-- **Simulaciones de phishing y manejo de credenciales.**
+- **Autenticación multifactor (MFA) y políticas de contraseñas fuertes.** 
 
-## Revisión y Auditoría de Acceso
+- **Control de acceso basado en roles (RBAC).** 
 
-- **Realizar revisiones periódicas para asegurarse de que el acceso a los sistemas sea apropiado.**
+  
 
-## Implementación de Tecnologías de Seguridad
+### Conciencia y Capacitación 
 
-- **Utilizar autenticación de dos factores, tokens de seguridad y biometría.**
+  
 
-## Desarrollo de Políticas y Procedimientos
+- **Programas de formación y simulacros de phishing para empleados.** 
 
-- **Establecer políticas claras para la gestión de identidades y acceso.**
+- **Sensibilización sobre las mejores prácticas de seguridad.** 
 
----
+  
+
+### Pruebas de Vulnerabilidad 
+
+  
+
+- **Ejecución de pruebas de penetración y escaneos de vulnerabilidad periódicos.** 
+
+- **Monitoreo continuo de amenazas y gestión de incidentes.** 
+
+  
+
+--- 
+
+  
+
+## Análisis de Vulnerabilidades 
+
+  
+
+- **Pruebas de penetración.** 
+
+- **Evaluaciones de seguridad y remediación.** 
+
+  
+
+## Gestión de Incidentes 
+
+  
+
+- **Protocolos de respuesta a incidentes.** 
+
+- **Análisis forense y documentación.** 
+
+  
+
+## Gestión de Parches 
+
+  
+
+- **Estrategia de actualizaciones de seguridad.** 
+
+- **Seguimiento de parches críticos.** 
+
+  
+
+--- 
+
+  
+
+## Detección 
+
+  
+
+### Monitoreo Continuo 
+
+  
+
+- **Uso de herramientas de monitoreo y gestión de eventos de seguridad (SIEM).** 
+
+- **Monitoreo de logs y tráfico en tiempo real para identificar anomalías.** 
+
+  
+
+### Alertas y Notificaciones 
+
+  
+
+- **Configuración de alertas para eventos sospechosos.** 
+
+- **Clasificación de alertas según severidad.** 
+
+  
+
+### Análisis de Comportamiento 
+
+  
+
+- **Implementación de análisis de comportamiento de usuarios y entidades (UEBA).** 
+
+- **Detección de actividades anómalas.** 
+
+  
+
+### Revisión de Registros 
+
+  
+
+- **Auditorías regulares de logs de acceso y eventos de seguridad.** 
+
+- **Análisis forense de incidentes pasados.** 
+
+  
+
+--- 
+
+  
+
+## Respuesta 
+
+  
+
+### Plan de Respuesta a Incidentes 
+
+  
+
+- **Desarrollo de un plan estructurado que defina roles y procedimientos.** 
+
+- **Simulacros de respuesta a incidentes.** 
+
+  
+
+### Contención y Erradicación 
+
+  
+
+- **Estrategias para contener y erradicar la amenaza.** 
+
+- **Acciones correctivas inmediatas.** 
+
+  
+
+### Recuperación 
+
+  
+
+- **Procedimientos para restaurar sistemas y servicios afectados.** 
+
+- **Validación de la integridad de los sistemas.** 
+
+  
+
+### Análisis Post-Incidente 
+
+  
+
+- **Evaluación del incidente para identificar lecciones aprendidas.** 
+
+- **Actualización de políticas y procedimientos.** 
+
+  
+
+--- 
+
+  
+
+# Identity and Access Management (IAM) 
+
+  
+
+## Gestión de Identidades 
+
+  
+
+- **Creación y eliminación de cuentas de usuario.** 
+
+- **Mantenimiento de registros de acceso.** 
+
+  
+
+## Control de Acceso 
+
+  
+
+- **Implementación de políticas de acceso basado en roles (RBAC).** 
+
+- **Autenticación multifactor (MFA).** 
+
+  
+
+## Monitoreo de Accesos 
+
+  
+
+- **Auditorías de acceso y análisis de logs.** 
+
+- **Detección de accesos no autorizados.** 
+
+  
+
+## Conciencia y Capacitación 
+
+  
+
+- **Entrenamiento sobre buenas prácticas de gestión de identidades.** 
+
+- **Simulaciones de phishing y manejo de credenciales.** 
+
+  
+
+## Revisión y Auditoría de Acceso 
+
+  
+
+- **Realizar revisiones periódicas para asegurarse de que el acceso a los sistemas sea apropiado.** 
+
+  
+
+## Implementación de Tecnologías de Seguridad 
+
+  
+
+- **Utilizar autenticación de dos factores, tokens de seguridad y biometría.** 
+
+  
+
+## Desarrollo de Políticas y Procedimientos 
+
+  
+
+- **Establecer políticas claras para la gestión de identidades y acceso.** 
+
+  
+
+--- 
+
+  
+
+## Biografía 
 
 ## Biografía
 
