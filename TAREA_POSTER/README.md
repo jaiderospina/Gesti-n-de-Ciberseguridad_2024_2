@@ -17,11 +17,11 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
 
 ISO 27001: Estándar internacional para la gestión de la seguridad de la 		información.
 
- 		GDPR: Reglamento General de Protección de Datos, que regula la 		privacidad y la protección de datos personales en la Unión Europea.
- 		COBIT: Marco de referencia para la gobernanza y la gestión de la 			tecnología de la información.
-ITIL: Marco de referencia para la gestión de servicios de tecnología de 		la información.
- 		NERC CIP: Estándar de seguridad para la industria de energía. 
-CIS Controls: Estándar de seguridad para la protección de sistemas de 		información.
+#GDPR: Reglamento General de Protección de Datos, que regula la privacidad y la protección de datos personales en la Unión Europea.
+#COBIT: Marco de referencia para la gobernanza y la gestión de la tecnología de la información.
+#ITIL: Marco de referencia para la gestión de servicios de tecnología de la información.
+#NERC CIP: Estándar de seguridad para la industria de energía. 
+#CIS Controls: Estándar de seguridad para la protección de sistemas de información.
 - Ley 1581 de 2012: Regula la protección de datos personales en Colombia.
 - Decreto 1377 de 2013: Reglamenta la ley 1581 y establece disposiciones para la protección de datos personales.
 - Ley 1273 de 2009: Regula la protección de la información y los datos personales en el sector financiero.
