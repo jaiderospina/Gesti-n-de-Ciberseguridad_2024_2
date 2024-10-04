@@ -6,7 +6,7 @@ Apreciado estudiantes cordial saludo. Respeto a la actidad en casa tener en cuen
 * En grupo, profunduzar las temáticas  según se distribuye a continuación y realizar sus aportes en este repositorio.
 * Se puede (y debe) hacer uso de recursos como listas nuemeradas, imágenes e hiperenlaces entre otros. 
 
-#**Grupo 1**#
+# **Grupo 1**
 # Legal and Regulatory 
 
 ## Cumplimiento Normativo 
