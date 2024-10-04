@@ -11,7 +11,7 @@
 3. [Self Assessment](#3-self-assessment-autoevaluación)
 
 ## Security Operations Center (SOC)
-![SOC](/Images/SOC.jpg)
+![SOC](/Grupo_4/Images/SOC.jpg)
 	
 **Security Operations Center (SOC) o centro de operación de seguridad** son un grupo de expertos altamente calificados cuyo trabajo consiste en monitorizar, detectar, analizar, defender e investigar continuamente los sistemas de información de la empresa. 
 El **SOC** es esencial si se desea garantizar la seguridad de la infraestructura de TI, minimizar los tiempos de respuesta a incidentes y proteger la organización contra amenazas internas y externas. A través de la gestión eficiente de incidentes y el análisis continuo de amenazas, el SOC ayuda a mantener una postura de ciberseguridad sólida y resiliente.
