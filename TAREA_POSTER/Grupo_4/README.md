@@ -4,6 +4,8 @@
 - Oscar Camargo
 - Jaime Zamudio
 - Jose Luis Galvis
+- Carlos Rodriguez
+- Wilfredo Samboni 
 
 ### Tabla de Contenido
 1. [Forensics](#1-forensics-forense-digital)
@@ -63,7 +65,7 @@ Son SOC que se gestionan de forma remota mediante herramientas digitales.
 > - _**Monitoreo de cumplimiento de políticas**: Revisión de políticas de seguridad en tiempo real para garantizar que los dispositivos cumplan con los requisitos de seguridad internos y externos._
 
 ## 1. Forensics (Forense Digital)
-<img src="/Images/Forense.jpg" alt="Forense" width="500" height="281">
+![Forense](/TAREA_POSTER/Grupo_4/Images/Forense.jpg)
 
 **Forense Digital** es una disciplina que se centra en la identificación, recolección, análisis y preservación de evidencia digital. Su objetivo es reconstruir los eventos relacionados con una brecha de seguridad, un ataque o cualquier tipo de actividad ilegal en entornos digitales.
 Es esencial hacia la investigación de incidentes de ciberseguridad, ya que permite a las organizaciones descubrir las causas de los ataques, mejorar sus defensas y en caso necesario, llevar a cabo acciones legales contra los responsables. También juega un papel clave en la recuperación de sistemas y en la reducción de riesgos futuros.
@@ -161,7 +163,7 @@ Sep 25 12:25:32 Monitor kernel: [ 5648.181964] usb 2-6: FTDI USB Serial Device c
 > - [FTK Imager](https://accessdata-ftk-imager.software.informer.com/download/) es una [herramienta](https://www.hackingarticles.in/comprehensive-guide-on-ftk-imager/?trk=public_post_comment-text) de código abierto que se utiliza para crear copias de la evidencia original sin alterarla.
 
 ##  2. Command Center (Centro de Comando)
-<img src="/Images/Code.jpg" alt="Code" width="500" height="281">
+![Code](/TAREA_POSTER/Grupo_4/Images/Code.jpg)
 
 Un **Command Center** (Centro de Comando) es una entidad central que coordina y gestiona la información crítica de una organización. Actúa como el punto de contacto clave para diversos grupos (usuarios, fuerzas del orden, público) y se encarga de recibir, procesar y diseminar información de acuerdo con las necesidades operativas y de seguridad.
 Un centro de comando es vital para mantener la continuidad de las operaciones, responder de manera efectiva a incidentes y gestionar cualquier interrupción o emergencia que pueda poner en riesgo a una organización o la seguridad pública.
@@ -205,7 +207,7 @@ Un centro de comando es vital para mantener la continuidad de las operaciones, r
 
 
 ## 3. Self Assessment (Autoevaluación)
-<img src="/Images/Analisis.jpg" alt="Analisis" width="500" height="281">
+![Analisis](/TAREA_POSTER/Grupo_4/Images/Analisis.jpg)
 
 **Self Assessment** (Autoevaluación) es un proceso sistemático mediante el cual una organización evalúa su propia postura de seguridad y capacidad para enfrentar amenazas. Este proceso permite identificar áreas de fortaleza y debilidades en sus sistemas de seguridad, brindando información crítica para priorizar acciones correctivas y mejorar la preparación ante posibles ataques..
 La autoevaluación es fundamental para mantener una estrategia de ciberseguridad sólida, ya que ayuda a las organizaciones a ajustar sus políticas, procedimientos y tecnologías de manera continua, asegurando una mayor resistencia ante las amenazas cambiantes del entorno digital. Las áreas clave que se analizan en este proceso incluyen la configuración de sistemas, la evaluación de vulnerabilidades, las pruebas de penetración y ejercicios prácticos de respuesta a incidentes.
