@@ -116,7 +116,12 @@ e.	Revisión y auditoría de acceso:
 f.	Implementación de tecnologías de seguridad: 
 •	Utilizar tecnologías de seguridad como autenticación de dos factores, tokens de seguridad y biometría para fortalecer la gestión de identidades y acceso.
 g.	Desarrollo de políticas y procedimientos: 
-•	Establecer políticas y procedimientos claros para la gestión de identidades y acceso 
+•	Establecer políticas y procedimientos claros para la gestión de identidades y acceso
+
+https://rafeeqrehman.com/2022/04/24/ciso-mindmap-2022-what-do-infosec-professionals-really-do/
+
+https://www.freelancermap.com/blog/es/que-hace-chief-information-security-officer-ciso/#Intro
+
 
     Legal and Regulatory
     Security Operations
