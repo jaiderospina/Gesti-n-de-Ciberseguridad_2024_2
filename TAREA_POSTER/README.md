@@ -193,6 +193,8 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
 - **Auditorías de acceso y análisis de logs.** 
 
 - **Detección de accesos no autorizados.** 
+
+[METODOLOGÍA ANÁLISIS DE TRÁFICO CON WIRESHARK.pdf](https://github.com/user-attachments/files/17248661/METODOLOGIA.ANALISIS.DE.TRAFICO.CON.WIRESHARK.pdf)
   
 ## Conciencia y Capacitación 
 
@@ -218,7 +220,7 @@ Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organi
 - [CISO Mindmap 2022](https://rafeeqrehman.com/2022/04/24/ciso-mindmap-2022-what-do-infosec-professionals-really-do)
 - [¿Qué hace un Chief Information Security Officer (CISO)?](https://www.freelancermap.com/blog/es/que-hace-chief-information-security-officer-ciso/#Intro)
 
-[METODOLOGÍA ANÁLISIS DE TRÁFICO CON WIRESHARK.pdf](https://github.com/user-attachments/files/17248661/METODOLOGIA.ANALISIS.DE.TRAFICO.CON.WIRESHARK.pdf)
+
 
 
 **Grupo 2**
