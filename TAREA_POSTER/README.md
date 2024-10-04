@@ -138,6 +138,89 @@ https://www.freelancermap.com/blog/es/que-hace-chief-information-security-office
     Governance
     Business  Enablement
     Leadership Skills
+
+# Business  Enablement
+
+## Product Security
+
+### 1. Secure DevOps (DevSecOps): 
+* El enfoque de DevSecOps integra la seguridad en todas las etapas del ciclo de vida del desarrollo de software, desde el código hasta la operación y mantenimiento. El CISO debe implementar herramientas y procesos que automaticen la verificación de la seguridad.
+* **Frameworks**: OWASP SAMM (Software Assurance Maturity Model), [NIST SP 800-53.](https://cloud.google.com/security/compliance/nist800-53?hl=es) 
+* **Política**: Establecer que toda aplicación debe pasar por revisiones de seguridad antes del despliegue, utilizando herramientas como [Jenkins](https://www.jenkins.io/), [GitLab CI](https://docs.gitlab.com/ee/ci/) para la integración continua con controles de seguridad.
+* **Tecnologías**: Herramientas como [SonarQube](https://www.sonarsource.com/products/sonarqube/) y [Veracode](https://www.veracode.com/)se utilizan para análisis de código estático (SAST) y dinámico (DAST). Herramientas de escaneo de contenedores como [Aqua Security y Sysdig](https://sysdig.com/vs/aqua/) ayudan a asegurar entornos [Docker](https://www.docker.com/)/[Kubernetes](https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/).
+
+### 2. Secure Development Lifecycle (SDLC):
+
+* El SDLC seguro involucra un proceso estructurado en fases: requisitos, diseño, implementación, verificación, lanzamiento y mantenimiento. El CISO debe asegurarse de que se realicen pruebas de seguridad en cada fase y que haya un proceso formal de gestión de vulnerabilidades.
+* **Frameworks**: ISO/IEC 27034 (Application Security), [Microsoft SDL](https://learn.microsoft.com/es-es/compliance/assurance/assurance-microsoft-security-development-lifecycle).
+* **Prácticas recomendadas**: Uso de revisiones de seguridad de diseño, análisis de amenazas (Threat Modeling), pruebas de penetración y auditorías de código.
+* **Tecnologías**: Herramientas de modelado de amenazas como [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) ayudan a identificar vulnerabilidades antes de la fase de implementación.
+
+
+### 3. Bug Bounties:
+
+* Los programas de bug bounty, como los ofrecidos por plataformas como HackerOne o Bugcrowd, permiten a los hackers éticos identificar y reportar vulnerabilidades en sistemas a cambio de recompensas. El CISO debe establecer criterios claros sobre qué sistemas son elegibles para estos programas y los procedimientos para validar y mitigar los fallos reportados.
+* **Frameworks**: [ISO/IEC 29147](https://secureframe.com/es-es/frameworks-glossary/iso-iec-29147) (Vulnerability Disclosure), [ISO/IEC 30111](https://secureframe.com/es-es/frameworks-glossary/iso-iec-30111)(Vulnerability Handling).
+* **Tecnologías**: Plataformas de recompensas como HackerOne o Bugcrowd permiten gestionar de forma eficiente la participación de hackers éticos.
+
+
+### 4. Web, Mobile, Cloud AppSec:
+
+* El CISO debe asegurar que las aplicaciones web, móviles y en la nube cumplan con los estándares de seguridad de la industria. Esto incluye la implementación de controles como autenticación multifactor (MFA), cifrado, monitoreo de API y protección contra ataques comunes como Cross-Site Scripting (XSS) y SQL Injection.
+* **Frameworks**: [OWASP Top 10](https://owasp.org/www-project-top-ten/), [NIST SP 800-95](https://csrc.nist.gov/pubs/sp/800/95/final)(Web Security), [Mobile Application Security Verification](Standardhttps://mas.owasp.org/MASVS/) (MASVS).
+* **Tecnologías**: Herramientas como Tenable.io, Qualys y [Nessus](https://es-la.tenable.com/products/tenable-oneson) utilizadas para realizar escaneos continuos de vulnerabilidades en aplicaciones web y móviles. Firebase Security Rules es útil para proteger aplicaciones móviles en tiempo real.
+
+## Cloud Computing
+
+### 1. Cloud Security Architecture:
+
+* La arquitectura de seguridad en la nube es crucial para garantizar la confidencialidad, integridad y disponibilidad de los datos. El CISO debe definir una estrategia de seguridad en la nube que incluya controles como el cifrado de datos en reposo y en tránsito, la segmentación de redes y  [la gestión de identidades y accesos](https://cloud.google.com/security/products/iam?hl=es-419) (IAM) .
+* **Frameworks**: [NIST SP 500-291](https://www.nist.gov/publications/nist-sp-500-291-nist-cloud-computing-standards-roadmap)(Cloud Computing Standards), ISO/IEC 27017 (Security in Cloud Services).
+* **Política**: Requerir que todos los servicios en la nube usen cifrado TLS, con claves administradas por la empresa (BYOK, Bring Your Own Key), y [controles de acceso basados en roles](https://www.cloudskillsboost.google/paths/13/course_templates/33/video/470730?locale=es) (RBAC).
+* **Tecnologías**: [AWS GuardDuty](https://aws.amazon.com/es/guardduty/), Azure Security Center y [Google Cloud Security Command Center](https://cloud.google.com/security/products/security-command-center?hl=es) son plataformas que ofrecen monitoreo y gestión de la seguridad en la nube. [HashiCorp Vault](https://www.vaultproject.io/) se utiliza para la gestión segura de secretos y credenciales en infraestructuras en la nube.
+
+### 2. Cloud Guidelines:
+
+* El CISO debe establecer directrices que cubran el uso seguro de los servicios en la nube, alineadas con las políticas de gobierno de datos, cumplimiento y normativas de la industria como GDPR (Reglamento General de Protección de Datos).
+* **Frameworks**: [NIST SP 800-144](https://csrc.nist.gov/pubs/sp/800/144/final) (Guidelines on Security and Privacy in Public Cloud), [ISO/IEC 27018](https://www.globalsuitesolutions.com/es/que-es-iso-27018/) (Protección de Datos Personales en la Nube).
+* **Tecnologías**: Herramientas de gestión de cumplimiento en la nube como [CloudCheckr](https://aws.amazon.com/marketplace/pp/prodview-s3pimhbls2qpm) y Cloud Custodian ayudan a automatizar la implementación de guías de seguridad y gobernanza en múltiples nubes.
+
+## Mobile
+### 1. Bring Your Own Device (BYOD):
+
+* Con el uso creciente de dispositivos personales para acceder a los sistemas corporativos, el CISO debe implementar una política de BYOD que garantice la protección de los datos corporativos. Esto incluye el uso de soluciones de [gestión de dispositivos móviles](https://workspace.google.com/intl/es-419/products/admin/endpoint/) (MDM), el cifrado obligatorio y el aislamiento de datos personales y empresariales.
+* **Frameworks**: [NIST SP 800-124](https://csrc.nist.gov/pubs/sp/800/124/r2/final)(Guidelines for Managing the Security of Mobile Devices), CIS Controls.
+* **Política**: Obligar el uso de VPN y soluciones MDM para todos los dispositivos que acceden a la red corporativa, con capacidad para eliminar remotamente los datos corporativos en caso de pérdida o robo.
+* **Tecnologías**: Soluciones de MDM como [VMware AirWatch](https://docs.vmware.com/es/VMware-Workspace-ONE/services/ws1_quickconguration/GUID-129576BE-6455-49F2-9C6C-4B61329C908C.html), Microsoft Intune y [Jamf](https://www.jamf.com/es/) permiten gestionar dispositivos personales y asegurar que cumplan con las políticas de la empresa.
+
+### 2. Mobile Policy:
+
+* El CISO debe definir políticas claras que regulen el uso de dispositivos móviles en la organización, especificando los requisitos de seguridad como autenticación multifactor, cifrado de discos, y actualización de parches de seguridad.
+* **Estandares**: [OWASP Mobile Security Project](https://owasp.org/www-project-mobile-app-security/), Mobile Application Security Verification Standard (MASVS).
+* **Tecnologías**: Herramientas como [Lookout](https://www.lookout.com/) y [Zimperium](https://www.zimperium.com/) ofrecen protección avanzada contra amenazas móviles (Mobile Threat Defense). Estas soluciones protegen los dispositivos contra malware, redes inseguras y vulnerabilidades del sistema operativo.
+
+## Emerging Technologies
+
+### 1. Internet of Things (IoT):
+
+* Los dispositivos IoT presentan nuevos vectores de ataque debido a su conectividad constante. El CISO debe definir estrategias para garantizar la seguridad de estos dispositivos, incluyendo la autenticación de dispositivos, el cifrado de datos y la segmentación de redes para reducir el impacto de posibles compromisos.
+* **Frameworks**: [NIST Cybersecurity Framework for IoT](https://csrc.nist.gov/CSRC/media/Presentations/nist-cybersecurity-for-iot-update/images-media/NIST%20%20Cybersecurity%20for%20IOT%20Update%20Megas.pdf), OWASP IoT Top 10.
+* **Política**: Requerir que todos los dispositivos IoT se registren en una red segura y segmentada, con monitoreo constante y actualizaciones de firmware.
+* **Tecnologías**: Plataformas como [Azure IoT Hub y AWS IoT](https://www.rishabhsoft.com/blog/aws-iot-vs-azure-iot-comparison) Core proporcionan capacidades de gestión y seguridad centralizadas para redes de dispositivos IoT. Soluciones como Arm Pelion ofrecen gestión y protección de dispositivos a nivel de firmware.
+
+### 2. Augmented Reality (AR) y Virtual Reality (VR):
+
+* Con la adopción creciente de AR y VR, el CISO debe identificar los riesgos específicos, como la manipulación de datos sensibles o la invasión de la privacidad. Es esencial que las políticas de seguridad cubran la autenticación y la protección de los datos que estos sistemas recogen.
+* **Recomendaciones**: Monitoreo continuo de vulnerabilidades emergentes y aseguramiento de que los dispositivos AR/VR se integren en la infraestructura segura de la organización.
+* **Tecnologías**: Plataformas de desarrollo como Unity y Unreal Engine están empezando a integrar medidas de seguridad específicas para AR y VR, protegiendo datos sensibles y asegurando la integridad de la experiencia virtual.
+
+## Mergers and Acquisitions
+### 1. Security Due Diligence:
+* Durante una fusión o adquisición, es responsabilidad del CISO realizar una diligencia debida en términos de ciberseguridad. Esto implica evaluar la madurez de los controles de seguridad de la organización objetivo, sus incidentes previos, cumplimiento de normativas, y cualquier vulnerabilidad potencial que pueda afectar la continuidad del negocio tras la adquisición.
+* **Frameworks**: [ISO 31000](https://www.iso.org/obp/ui#iso:std:iso:31000:ed-2:v1:es) (Risk Management), NIST SP [800-30](https://www.nist.gov/privacy-framework/nist-sp-800-30) (Risk Assessment).
+* **Prácticas recomendadas**: Realizar una evaluación exhaustiva de la postura de seguridad de la empresa adquirida, incluyendo auditorías de terceros y análisis de riesgos.
+* **Tecnologías**: Plataformas como [BitSight](https://www.bitsight.com/) y [SecurityScorecard](https://securityscorecard.com/) permiten evaluar la postura de seguridad de una empresa objetivo mediante el análisis de su infraestructura y su exposición a riesgos cibernéticos.
+    
 # Leadership Skills
 [CISO MIND MAP](https://pentest.sans.org/security-resources/posters/ciso-mind-map-vulnerability-management-maturity-model/205/download)
 
