@@ -14,7 +14,9 @@ a.	Cumplimiento Normativo
 •	Auditorías de cumplimiento y reportes.
 
 Estos estándares y marcos de referencia ayudan al CISO a asegurar que la organización cumpla con las regulaciones y normas de seguridad relevantes, y que los riesgos de seguridad sean gestionados de manera efectiva.
+
 ISO 27001: Estándar internacional para la gestión de la seguridad de la 		información.
+
  		GDPR: Reglamento General de Protección de Datos, que regula la 		privacidad y la protección de datos personales en la Unión Europea.
  		COBIT: Marco de referencia para la gobernanza y la gestión de la 			tecnología de la información.
 ITIL: Marco de referencia para la gestión de servicios de tecnología de 		la información.
