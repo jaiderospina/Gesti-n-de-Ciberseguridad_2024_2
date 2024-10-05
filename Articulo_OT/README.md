@@ -9,7 +9,7 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 
 * Contexto del negocio: El personal encargado de diseñar, operar y mantener los sistemas OT debe estar familiarizado con el contexto de negocio en el que estos sistemas operan. Esto incluye no solo los aspectos técnicos, sino también la relación de estos sistemas con los procesos físicos y su importancia para la entrega de servicios a los clientes.
 
-## Ejemplos para ilustrar este principio:
+## Ejemplos de incidentes para ilustrar este principio:
 * Industria de generación eléctrica: Para garantizar la seguridad y eficiencia de un generador eléctrico, no basta con entender el funcionamiento de sus componentes técnicos. Los ingenieros y el personal de seguridad deben conocer los procesos empresariales que dependen de la generación de electricidad, como el suministro continuo de energía a hospitales o instalaciones críticas.
 
 * Plantas de tratamiento de agua: Si hay un fallo en el sistema de control OT, el equipo debe saber qué procesos son prioritarios, como asegurar el flujo de agua potable, lo cual es vital para la seguridad pública.
