@@ -1,3 +1,11 @@
+**Integrantes**
+* *Andrés Berdugo*
+* *Andrés Molano*
+* *Enrique Ramírez*
+* *Oscar Vega*
+* *Pedro Téllez*
+* *Raúl Garay*
+
 ***
 ## Principio 3: Los datos OT son extremadamente valiosos y necesitan ser protegidos
 ***
