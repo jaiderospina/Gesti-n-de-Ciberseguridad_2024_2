@@ -19,10 +19,9 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 * Comprensión integral de los sistemas: Se debe entender completamente qué partes del sistema OT son críticas y cómo están conectadas.
 * Relación entre OT y el negocio: Es vital que los equipos de ciberseguridad y OT trabajen alineados con los objetivos del negocio.
 * Identificación de riesgos y dependencias: Se debe tener un panorama claro de qué sistemas y procesos pueden verse afectados en caso de un incidente cibernético.
-
-# Principio 2: El conocimiento del negocio es crucial
 * Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
 * La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
+  
 ## Requisitos para organizaciones de infraestructura crítica:
 1. Identificar sistemas vitales que permitan la continuidad de los servicios esenciales.
 2. Comprender el proceso del sistema OT y la importancia de cada parte del proceso.
