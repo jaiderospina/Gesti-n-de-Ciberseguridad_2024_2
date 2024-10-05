@@ -16,6 +16,7 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 
   
 ### Grupo 2 : Tatiana Sanchez | Miguel Amaya | Cristian Toro | Andres Parrado
+[Slide](Articulo_OT/Artículo OT principio 2.pdf)
 # Principio 2: El conocimiento del negocio es crucial
 * Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
 * La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
