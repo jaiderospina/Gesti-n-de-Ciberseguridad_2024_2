@@ -15,13 +15,10 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 * Plantas de tratamiento de agua: Si hay un fallo en el sistema de control OT, el equipo debe saber qué procesos son prioritarios, como asegurar el flujo de agua potable, lo cual es vital para la seguridad pública.
 
   
-## Principales características:
-* Comprensión integral de los sistemas: Se debe entender completamente qué partes del sistema OT son críticas y cómo están conectadas.
-* Relación entre OT y el negocio: Es vital que los equipos de ciberseguridad y OT trabajen alineados con los objetivos del negocio.
-* Identificación de riesgos y dependencias: Se debe tener un panorama claro de qué sistemas y procesos pueden verse afectados en caso de un incidente cibernético.
+### Grupo 2 : Tatiana Sanchez | Miguel Amaya | Cristian Toro | Andres Parrado
+# Principio 2: El conocimiento del negocio es crucial
 * Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
 * La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
-  
 ## Requisitos para organizaciones de infraestructura crítica:
 1. Identificar sistemas vitales que permitan la continuidad de los servicios esenciales.
 2. Comprender el proceso del sistema OT y la importancia de cada parte del proceso.
@@ -47,6 +44,7 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 5. Comprender el contexto empresarial del sistema OT es crucial para evaluar el impacto de interrupciones y compromisos de ciberseguridad.
 6. Esto es vital para definir las prioridades de recuperación durante un incidente crítico.
 7. Las relaciones entre personal de ciberseguridad de OT y responsables de la planta física son clave tanto para proyectos de mejora cibernética como para la respuesta a eventos cibernéticos.
+
 
 ***
 ## Principio 3: Los datos OT son extremadamente valiosos y necesitan ser protegidos
