@@ -20,6 +20,38 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 * Relación entre OT y el negocio: Es vital que los equipos de ciberseguridad y OT trabajen alineados con los objetivos del negocio.
 * Identificación de riesgos y dependencias: Se debe tener un panorama claro de qué sistemas y procesos pueden verse afectados en caso de un incidente cibernético.
 
+# Principio 2: El conocimiento del negocio es crucial
+* Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
+* La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
+## Requisitos para organizaciones de infraestructura crítica:
+1. Identificar sistemas vitales que permitan la continuidad de los servicios esenciales.
+2. Comprender el proceso del sistema OT y la importancia de cada parte del proceso.
+3. Crear una arquitectura de defensa que proteja los sistemas y procesos vitales de otras redes internas y externas.
+4. Garantizar que el personal responsable de OT entienda el contexto empresarial del sistema OT, la planta física conectada y cómo se entregan los servicios a los interesados.
+5. Comprender las dependencias de los sistemas vitales y cómo se conectan con sistemas externos al sistema OT.
+## Ejemplos e implicaciones:
+1. Es fundamental saber qué necesita ser protegido: identificar los elementos esenciales para la continuidad del negocio.
+2. Es necesario comprender los sistemas y procesos, que incluyen: diagramas de ingeniería, listas de activos, diagramas de redes, quién puede conectarse y desde dónde, procedimientos de recuperación, proveedores, servicios y equipos.
+3. Se requiere tanto pensamiento de arriba hacia abajo (separar OT de IT) como de abajo hacia arriba (descubrir el conjunto mínimo de equipos OT críticos).
+* Ejemplo: Para generar electricidad, el mínimo podría ser un generador, un controlador y un suministro de combustible.
+##Implicaciones para la ciberseguridad:
+1. El conocimiento de los sistemas esenciales debe guiar la implementación de controles de ciberseguridad en capas.
+2. Los planes y guías de respuesta a incidentes OT deben integrarse con los planes de crisis, continuidad del negocio y reporte de incidentes cibernéticos.
+3. Involucrar a ingenieros de procesos en la creación de planes y guías, y en cualquier proceso de investigación o recuperación.
+4. Proporcionar un paquete de información a terceros antes o durante su contratación, que incluya contactos, convenciones de nombres, herramientas y restricciones.
+5. Estos planes, guías y paquetes de terceros deben ser actualizados y protegidos regularmente debido a su valor frente a los adversarios.
+## Aspectos físicos y visuales en OT:
+1. Utilizar codificación de colores en cables, marcar dispositivos permitidos en el entorno OT de manera visible.
+2. Solo los dispositivos autorizados deben estar conectados al entorno OT, garantizando que solo se introduzca código autorizado.
+3. Las señales visuales ayudan a proteger el entorno y permiten tomar decisiones rápidas y correctas durante eventos cibernéticos.
+4. Importancia del contexto empresarial en OT:
+5. Comprender el contexto empresarial del sistema OT es crucial para evaluar el impacto de interrupciones y compromisos de ciberseguridad.
+6. Esto es vital para definir las prioridades de recuperación durante un incidente crítico.
+7. Las relaciones entre personal de ciberseguridad de OT y responsables de la planta física son clave tanto para proyectos de mejora cibernética como para la respuesta a eventos cibernéticos.
+
+
+
+
 ## Principle 5: The supply chain must be secure
 
 
