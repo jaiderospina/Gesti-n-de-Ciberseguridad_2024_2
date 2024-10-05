@@ -32,11 +32,8 @@ Este principio también se basa en los consejos sobre administración y gestión
 Se colocan los servicios de administración y gestión de sistemas y garantizar una separación adecuada de las interfaces de administración y gestión de sus contrapartes del entorno de TI.
 A menudo se coloca un firewall entre una red de TI corporativa y una red de OT, porque la red de TI corporativa suele considerarse como la que tiene un mayor riesgo de vulneración. Sin embargo, un objetivo común de los actores cibernéticos maliciosos,una vez en una red, es buscar la escalada de privilegios. Si un actor cibernético malicioso compromete la red de TI corporativa y logra la escalada de privilegios, y el firewall se administra
 desde el lado de TI a través de una cuenta de TI privilegiada, entonces el firewall entre TI y OT puede no proporcionar el nivel deseado de protección para el entorno de OT.
-
 Las copias de seguridad, Si las copias de seguridad o la infraestructura de copias de seguridad para el entorno OT están gestionadas por cuentas de TI corporativas privilegiadas.
-
-Además de las preocupaciones más tradicionales sobre la separación física y lógica, se destacan los sistemas de administración y gestión y áreas de gestión que incluyen seguridad de red, autenticación y control
-de acceso, virtualización y copias de seguridad, es necesario que las organizaciones evalúen periódicamente el riesgo de separar insuficientemente los sistemas y servicios administrativos y de gestión en entornos OT
+Además de las preocupaciones más tradicionales sobre la separación física y lógica, se destacan los sistemas de administración y gestión y áreas de gestión que incluyen seguridad de red, autenticación y control de acceso, virtualización y copias de seguridad, es necesario que las organizaciones evalúen periódicamente el riesgo de separar insuficientemente los sistemas y servicios administrativos y de gestión en entornos OT.
 
 
 
