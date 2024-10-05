@@ -1,9 +1,11 @@
 # Resumen
 
+### Grupo 2 : Tatiana Sanchez | Miguel Amaya | Cristian Toro | Andres Parrado
+[Slide](Articulo_OT/Artículo OT principio 2.pdf)
+# Principio 2: El conocimiento del negocio es crucial
+* Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
+* La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
 
-## Principle 2: Knowledge of the business is crucial
-
-El Principio 2: El conocimiento del negocio es crucial resalta la importancia de que una organización tenga un entendimiento profundo de sus propios procesos para fortalecer su ciberseguridad, especialmente en el ámbito de la tecnología operacional (OT). Este principio se enfoca en dos aspectos clave:
 
 * Conocer los sistemas vitales: Es fundamental que las organizaciones identifiquen qué sistemas son cruciales para continuar brindando sus servicios esenciales. Esto implica comprender cómo funcionan los sistemas OT, cómo interactúan con el resto de la infraestructura, y qué partes del negocio dependen de ellos para operar.
 
@@ -14,12 +16,6 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 
 * Plantas de tratamiento de agua: Si hay un fallo en el sistema de control OT, el equipo debe saber qué procesos son prioritarios, como asegurar el flujo de agua potable, lo cual es vital para la seguridad pública.
 
-  
-### Grupo 2 : Tatiana Sanchez | Miguel Amaya | Cristian Toro | Andres Parrado
-[Slide](Articulo_OT/Artículo OT principio 2.pdf)
-# Principio 2: El conocimiento del negocio es crucial
-* Cuanto más conocimiento tenga una empresa sobre sí misma, mejor podrá protegerse, prepararse y responder ante incidentes cibernéticos.
-* La comprensión, visibilidad e informes sobre los riesgos cibernéticos, especialmente en sistemas OT (Tecnología Operacional), deben estar presentes en los niveles más altos de la organización.
 ## Requisitos para organizaciones de infraestructura crítica:
 1. Identificar sistemas vitales que permitan la continuidad de los servicios esenciales.
 2. Comprender el proceso del sistema OT y la importancia de cada parte del proceso.
