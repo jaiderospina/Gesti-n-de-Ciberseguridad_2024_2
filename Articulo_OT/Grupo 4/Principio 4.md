@@ -32,6 +32,7 @@ A menudo se coloca un firewall entre una red de TI corporativa y una red de OT, 
 desde el lado de TI a través de una cuenta de TI privilegiada, entonces el firewall entre TI y OT puede no proporcionar el nivel deseado de protección para el entorno de OT.
 Las copias de seguridad, Si las copias de seguridad o la infraestructura de copias de seguridad para el entorno OT están gestionadas por cuentas de TI corporativas privilegiadas.
 Además de las preocupaciones más tradicionales sobre la separación física y lógica, se destacan los sistemas de administración y gestión y áreas de gestión que incluyen seguridad de red, autenticación y control de acceso, virtualización y copias de seguridad, es necesario que las organizaciones evalúen periódicamente el riesgo de separar insuficientemente los sistemas y servicios administrativos y de gestión en entornos OT.
+![OT-network-segmentation-with-three-security-zones-and-a-DMZ-separated-by-firewalls](https://github.com/user-attachments/assets/5c5aa313-3b4d-4feb-967a-34ec58557c6c)
 
 
 
