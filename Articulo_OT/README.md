@@ -32,3 +32,8 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 ### Seguridad de firmware y actualizaciones:
 
 * Es esencial que cualquier actualización de firmware o software provenga de fuentes verificadas y esté firmada criptográficamente. Las organizaciones también deben establecer procesos para verificar que los proveedores sigan este enfoque antes de permitir cualquier actualización en los sistemas OT.
+
+## Ejemplos e implicaciones:
+* Proveedores de energía: En una compañía eléctrica, puede haber múltiples proveedores de pequeñas plantas generadoras o equipos de almacenamiento de energía. Si uno de estos pequeños proveedores tiene una debilidad en su red OT, podría convertirse en un punto de acceso para un ciberatacante. Desde la perspectiva de seguridad, cualquier conexión a estos proveedores, independientemente de su tamaño, debe ser tratada como crítica, y deben aplicarse los mismos controles de seguridad rigurosos que se aplicarían a conexiones más grandes.
+
+* Un consultor externo en una planta química: Si una planta química utiliza un sistema de control que requiere acceso frecuente de un consultor externo para tareas de mantenimiento, cada vez que el consultor se conecte de forma remota, existe un riesgo de que esa conexión pueda ser interceptada o comprometida. Para mitigar este riesgo, la planta debe implementar protocolos estrictos de autenticación multifactor y segmentar adecuadamente las redes OT de manera que el acceso del consultor esté limitado solo a las áreas necesarias.
