@@ -4,3 +4,5 @@ Aborda inicialmente com la seguridad física impacta en los entornos operativos 
 habla de como la infraestructura crítica está interconectada donde fallos en una de ellas pueden impactar en otras infraestructuras. 
 Habla de un "arranque en negro" para los sistemas de ciberseguridad introducidos en Infraestructura Crítica, para ser capaz de recuperarse con dependencia mínima de otros sistemas.
 Plantea posteriormente unas preguntas importantes para determinar la capacidad respuesta a incidentes: 
+
+El principio de "la seguridad es primordial" implica que la seguridad debe ser la prioridad en todos los aspectos de los sistemas ciberfísicos, incluyendo la ciberseguridad, la determinación de fallos y la recuperación después de incidentes. También destaca la importancia de considerar las preguntas de respuesta a incidentes y la necesidad de tener un enfoque sistemático para garantizar la seguridad en todas las tareas, incluyendo la higiene cibernética.
