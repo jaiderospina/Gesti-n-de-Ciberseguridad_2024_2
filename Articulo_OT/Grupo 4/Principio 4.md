@@ -19,10 +19,10 @@ El malware Hatman es la necesidad de separar las redes OT más críticas, como l
 
 El problema de larga data de la interconectividad de OT entre diferentes organizaciones se ve agravado por la interrupción que se está produciendo en muchos subsectores de infraestructura crítica.
 
-Un cambio importante en el pensamiento de la confiabilidad de la ingeniería a la ciberseguridad es el concepto de que, si existe una conexión, debe ser segura, independientemente del tamaño de la organización a la que esté conectada.    Desde el punto de vista de la ciberseguridad de un vector de ataque a la red OT de una organización de transmisión de electricidad, una conexión de red al sistema de control de un parque solar de 5 MW tiene la misma criticidad que una conexión de red al sistema de control de una central eléctrica de 2 GW.
+Un cambio importante en el pensamiento de la confiabilidad de la ingeniería a la ciberseguridad es el concepto de que, si existe una conexión, debe ser segura, independientemente del tamaño de la organización a la que esté conectada. Desde el punto de vista de la ciberseguridad de un vector de ataque a la red OT de una organización de transmisión de electricidad, una conexión de red al sistema de control de un parque solar de 5 MW tiene la misma criticidad que una conexión de red al sistema de control de una central eléctrica de 2 GW.
 
 > [!IMPORTANT] 
-> Las organizaciones no pueden presumir que otras organizaciones tienen el mismo nivel de tolerancia al riesgo cibernético, la misma higiene cibernética y los > mismos estándares de seguridad cibernética que las suyas.
+> Las organizaciones no pueden presumir que otras organizaciones tienen el mismo nivel de tolerancia al riesgo cibernético, la misma higiene cibernética y los mismos estándares de seguridad cibernética que las suyas.
 
 Si la red OT de una organización no está suficientemente protegida de la red OT de otra organización, incluidas las consideraciones habituales como el registro y las alertas, entonces el límite de seguridad de la red OT incluye a la otra organización.
 
