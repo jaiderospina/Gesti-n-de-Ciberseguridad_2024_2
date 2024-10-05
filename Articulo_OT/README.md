@@ -14,6 +14,11 @@ El Principio 2: El conocimiento del negocio es crucial resalta la importancia de
 
 * Plantas de tratamiento de agua: Si hay un fallo en el sistema de control OT, el equipo debe saber qué procesos son prioritarios, como asegurar el flujo de agua potable, lo cual es vital para la seguridad pública.
 
+  
+## Principales características:
+* Comprensión integral de los sistemas: Se debe entender completamente qué partes del sistema OT son críticas y cómo están conectadas.
+* Relación entre OT y el negocio: Es vital que los equipos de ciberseguridad y OT trabajen alineados con los objetivos del negocio.
+* Identificación de riesgos y dependencias: Se debe tener un panorama claro de qué sistemas y procesos pueden verse afectados en caso de un incidente cibernético.
 
 ## Principle 5: The supply chain must be secure
 
