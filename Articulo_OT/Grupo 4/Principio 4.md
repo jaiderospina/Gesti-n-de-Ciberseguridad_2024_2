@@ -13,9 +13,7 @@ La red OT de la organización de infraestructura y las redes OT de otras organiz
 
 Estas conexiones desde las redes OT de otras organizaciones pueden ser una puerta trasera hacia un activo crítico, lo que podría eludir los niveles de seguridad que protegen la red OT de la TI corporativa e Internet.
 
-Las organizaciones de infraestructura crítica deben segmentar y segregar su OT de todas las demás redes.
-
-El malware Hatman es la necesidad de separar las redes OT más críticas, como las que son esenciales.
+Las organizaciones de infraestructura crítica deben segmentar y segregar sus redes OT de todas las demás redes.
 
 El problema de larga data de la interconectividad de OT entre diferentes organizaciones se ve agravado por la interrupción que se está produciendo en muchos subsectores de infraestructura crítica.
 
