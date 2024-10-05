@@ -17,3 +17,4 @@ PRINCIPIO 5: LA CADENA DE SUMINISTROS DEBE SER SEGURA
 La cadena de suministro debe ser segura en términos de Ciberseguridad. 
 Garantizar que la transmisión de actividades entre equipos sea segura. 
 Es importante evaluar a los proveedores y sus dispositivos para asegurarse de que cumplan con los principios de ciberseguridad y no aumenten el riesgo de ataques.
+onsiderar no solo para qué está configurado actualmente un dispositivo, sino también qué podría hacer un dispositivo si se cambiara su firmware o configuración.
