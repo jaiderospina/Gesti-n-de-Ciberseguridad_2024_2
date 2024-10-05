@@ -31,3 +31,19 @@
 ### Seguridad de firmware y actualizaciones:
 
 * Es esencial que cualquier actualización de firmware o software provenga de fuentes verificadas y esté firmada criptográficamente. Las organizaciones también deben establecer procesos para verificar que los proveedores sigan este enfoque antes de permitir cualquier actualización en los sistemas OT.
+
+***
+## Principio 6: Las personas son esenciales para la ciberseguridad OT
+***
+*No hay forma de detectar o identificar un incidente sin personas capacitadas ya que son ellas las que poseen además de conocimiento, herramientas para crear defensa y detección.*
+
+*Contar con una cultura de ciberseguridad es fundamental para la resiliencia en sistemas OT. Personas como los técnicos de campo o personal operativo son la primera línea de defensa y detección.*
+
+*Como el personal es la primera línea de defensa es imperativo generar espacios de concienciación sobre la seguridad para que ellos luego puedan estar seguros de hacer preguntas sin el temor a hacer el ridículo.*
+
+*Crear entornos y procesos que incentiven al personal a identificar y denunciar cualquier comportamiento sospechoso y preferiblemente evitar hacer mantenimientos sin previo aviso, ya que al hacerlo se esta generando en el personal un paisaje lo que lleva a que una situación real no sea reportada.*
+
+![](https://www.getronics.com/wp-content/uploads/2021/09/Getronics_People_27-scaled.jpg)
+
+[Imagen usada] [Getronics]  
+[Getronics]: https://www.getronics.com/how-to-get-your-it-and-ot-systems-talking/
