@@ -99,8 +99,17 @@ Con aprecio;
 
 Jaider Ospina Navas
 
-List item
-|DE| RER |
-|–|--|
-| | |
+# Sustentación.
 
+Para efectos de sutentación se empleará el uso de la metología ágil PECHA KUCHA, platicada brevemente en clase y que pueden extender en el siguiente recurso. 
+
+[![Alt text](https://img.youtube.com/vi/ZjLmGhoOhhk/0.jpg)](https://www.youtube.com/watch?v=ZjLmGhoOhhk)
+
+
+La variación que se hará a la metidología es que cada uno de los integrantes deberá presentar 4 minutos del total de la presentación del artículo.  A manera de ejemplo si el grupo esta conforado por 3 integrantes la presentación pecha kucha deberá demorar 12 minutos en total, y cada integrante debe presentar 4 minutos de la presentación ininterrumpida. 
+
+***PD: Se permite un margen de tolerancia de (+-) 2 minutos para la presentación total.***
+
+Por favor no duden en contactarmen para cualquier inquietud. 
+
+Con aprecio;  Jaider Ospina Navas
