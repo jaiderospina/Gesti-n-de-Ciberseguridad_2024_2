@@ -1,21 +1,41 @@
-RESUMEN PRINCIPIO 1 
-Se denomina LA SEGURIDAD ES PRIMORDIAL 
-Aborda inicialmente como la seguridad física impacta en los entornos operativos y en los sistemas. 
-habla de como la infraestructura crítica está interconectada donde fallos en una de ellas pueden impactar en otras infraestructuras. 
-Habla de un "arranque en negro" para los sistemas de ciberseguridad introducidos en Infraestructura Crítica, para ser capaz de recuperarse con dependencia mínima de otros sistemas.
-Plantea posteriormente unas preguntas importantes para determinar la capacidad respuesta a incidentes: 
-Una organización está preparada para enviar personal al "sitio" sabiendo que un mal actor esta en la red?
-Puede una organización estar segura que el cifrado fue la única modificación de archivos por el actor malicioso?
-Después de tener un actor malicioso, como puede estar seguro que el backup de archivos es confiable? 
-El principio de "la seguridad es primordial" implica que la seguridad debe ser la prioridad en todos los aspectos de los sistemas ciberfísicos, incluyendo la ciberseguridad, la determinación de fallos y la recuperación después de incidentes. También destaca la importancia de considerar las preguntas de respuesta a incidentes y la necesidad de tener un enfoque sistemático para garantizar la seguridad en todas las tareas, incluyendo la higiene cibernética.
+# RESUMEN PRINCIPIO 1: LA SEGURIDAD ES PRIMORDIAL
 
+Este principio aborda cómo la **seguridad física** impacta en los entornos operativos y sistemas. Se discute la interconexión de la **infraestructura crítica**, donde fallos en un sistema pueden afectar a otros. 
 
+Se introduce el concepto de **"arranque en negro"** para los sistemas de ciberseguridad en Infraestructura Crítica, permitiendo una recuperación con mínima dependencia de otros sistemas.
 
-PRINCIPIO 5: LA CADENA DE SUMINISTROS DEBE SER SEGURA
-Habla de que es necesario contar con un programa de garantía de la cadena de suministro para proveedores de equipos y software, vendedores y proveedores de servicios gestionados (MSP)
-En los entornos OT, la red suele ser bastante abierta. Los mensajes de control críticos suelen enviarse con poca o ninguna seguridad, por ejemplo, sin cifrado.
-En este orden de ideas algunas recomendaciones es considerar otros sistemas, según las interconexiones o la necesidad de que el otro sistema funcione correctamente para que el OT funcione correctamente.
-Estos pueden incluir sistemas de gestión de edificios, aire acondicionado (HVAC), sistemas de extinción de incendios, ascensores, cámaras y sistemas de control de acceso físico.
-Garantizar que la transmisión de actividades entre equipos sea segura. 
-Es importante evaluar a los proveedores y sus dispositivos para asegurarse de que cumplan con los principios de ciberseguridad y no aumenten el riesgo de ataques.
-onsiderar no solo para qué está configurado actualmente un dispositivo, sino también qué podría hacer un dispositivo si se cambiara su firmware o configuración.
+## Preguntas clave para la respuesta a incidentes:
+
+1. ¿Está una organización preparada para enviar personal al "sitio" sabiendo que hay un actor malicioso en la red?
+2. ¿Puede una organización asegurar que el cifrado fue la única modificación de archivos realizada por el actor malicioso?
+3. Después de la presencia de un actor malicioso, ¿cómo puede asegurarse de que el backup de archivos es confiable?
+
+El principio de "la seguridad es primordial" enfatiza que la seguridad debe ser la prioridad en todos los aspectos de los sistemas ciberfísicos. Esto incluye ciberseguridad, determinación de fallos y recuperación tras incidentes. También destaca la necesidad de un enfoque sistemático para garantizar la seguridad en todas las tareas, incluyendo la higiene cibernética.
+
+---
+
+# PRINCIPIO 5: LA CADENA DE SUMINISTROS DEBE SER SEGURA
+
+Este principio subraya la importancia de contar con un **programa de garantía de la cadena de suministro** para:
+
+- Proveedores de equipos
+- Proveedores de software
+- Vendedores
+- Proveedores de servicios gestionados (MSP)
+
+En entornos de **Tecnología Operativa (OT)**, las redes suelen ser bastante abiertas, y los mensajes de control críticos se envían a menudo sin seguridad, como cifrado.
+
+## Recomendaciones:
+
+- Considerar las interconexiones con otros sistemas que puedan ser críticos para el funcionamiento de OT, como:
+  - Sistemas de gestión de edificios
+  - Sistemas de aire acondicionado (HVAC)
+  - Sistemas de extinción de incendios
+  - Ascensores
+  - Cámaras
+  - Sistemas de control de acceso físico
+
+- Asegurar que la transmisión de actividades entre equipos sea segura.
+- Evaluar a los proveedores y sus dispositivos para verificar que cumplen con los principios de ciberseguridad, evitando así un aumento del riesgo de ataques.
+- No solo considerar la configuración actual de un dispositivo, sino también qué podría hacer si se cambiara su firmware o configuración.
+
