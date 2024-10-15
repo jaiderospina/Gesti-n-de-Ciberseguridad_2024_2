@@ -25,6 +25,10 @@ Este principio subraya la importancia de contar con un **programa de garantía d
 
 En entornos de **Tecnología Operativa (OT)**, las redes suelen ser bastante abiertas, y los mensajes de control críticos se envían a menudo sin seguridad, como cifrado.
 
+![pexels-hyundaimotorgroup-19317897 (1)](https://github.com/user-attachments/assets/2d36801a-35a0-4f14-be2b-45e9f7d65ad4)
+
+
+
 ## Recomendaciones:
 
 - Considerar las interconexiones con otros sistemas que puedan ser críticos para el funcionamiento de OT, como:
