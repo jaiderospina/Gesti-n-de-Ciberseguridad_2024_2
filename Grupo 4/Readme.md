@@ -1,13 +1,7 @@
-# Grupo 4
-## Integrantes:
-
-JAIME ZAMUDIO
-
-OSCAR CAMARGO
-
-WILFREDO SAMBONI
-
-CARLOS RODRÍGUEZ
-
-JOSE GALVIS
+### Grupo 4
+- Oscar Camargo
+- Jaime Zamudio
+- Jose Luis Galvis
+- Carlos Rodriguez
+- Wilfredo Samboni 
 
