@@ -29,9 +29,8 @@ Una empresa invierte **$20,000** en una nueva campaña de marketing. Al final de
 1. **Ganancia neta** = $35,000 (ingresos generados) - $20,000 (inversión inicial) - $5,000 (costos operativos) = $10,000
 2. **Costo de la inversión** = $20,000
 
-\[
-ROI = \frac{10,000}{20,000} \times 100 = 50\%
-\]
+
+![costoinversion](/ROSI/images/Costoinversion1.png)
 
 **Interpretación:** El ROI es del **50%**, lo que significa que la campaña de marketing ha generado un retorno del 50% sobre la inversión inicial.
 
@@ -59,43 +58,32 @@ Una empresa decide implementar un sistema de autenticación multifactor (MFA) pa
 
 ##### **Paso 1: Calcular el valor esperado de las pérdidas sin implementar MFA**
 
-\[
-\text{Valor esperado sin MFA} = \text{Probabilidad de ataque} \times \text{Impacto financiero}
-\]
-
-\[
-\text{Valor esperado sin MFA} = 0.15 \times 100,000 = 15,000
-\]
+![costoinversion](/ROSI/images/3.png)
 
 ##### **Paso 2: Calcular el valor esperado de las pérdidas con MFA**
 
 La implementación del MFA reduce la probabilidad de ataque en un **70%**, por lo que la nueva probabilidad es:
 
-\[
-\text{Nueva probabilidad de ataque} = 0.15 \times (1 - 0.70) = 0.15 \times 0.30 = 0.045
-\]
+Nueva probabilidad de ataque= 0.15 X (1 - 0.70) = 0.15 X times 0.30 = 0.045
+
 
 El valor esperado de las pérdidas con MFA es:
 
-\[
-\text{Valor esperado con MFA} = 0.045 \times 100,000 = 4,500
-\]
+Valor esperado con MFA = 0.045 X times 100,000 = 4,500
+
 
 ##### **Paso 3: Calcular el beneficio generado por la implementación del MFA**
 
 El beneficio generado es la cantidad de pérdidas evitadas gracias a la implementación del MFA:
 
-\[
-\text{Beneficio generado} = 15,000 - 4,500 = 10,500
-\]
+Beneficio generado = 15,000 - 4,500 = 10,500
+
 
 ##### **Paso 4: Calcular el ROSI**
 
-\[
-ROSI = \frac{10,500 - 15,000}{15,000} \times 100 = \frac{-4,500}{15,000} \times 100 = -30\%
-\]
+![4](/ROSI/images/4.png)
 
-**Interpretación:** En este caso, el ROSI es del **-30%**, lo que significa que, aunque la medida de seguridad reduce el riesgo, no ofrece un retorno financiero positivo directo sobre la inversión. Sin embargo, esto no implica que la inversión no sea valiosa, ya que en ciberseguridad, la protección de activos críticos y la reducción de riesgos son esenciales, aunque el retorno no sea directamente financiero.
+En este caso, el ROSI es del **-30%**, lo que significa que, aunque la medida de seguridad reduce el riesgo, no ofrece un retorno financiero positivo directo sobre la inversión. Sin embargo, esto no implica que la inversión no sea valiosa, ya que en ciberseguridad, la protección de activos críticos y la reducción de riesgos son esenciales, aunque el retorno no sea directamente financiero.
 
 ---
 
