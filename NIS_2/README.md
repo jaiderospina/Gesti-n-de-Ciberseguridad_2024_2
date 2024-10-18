@@ -27,6 +27,7 @@ La Directiva NIS establece una serie de requisitos para los Estados miembros de 
 # REFERENCIAS.
 
 1.  Directiva UE 2022 / 2555 https://www.boe.es/doue/2022/333/L00080-00152.pdf
+2.  Directiva NIS 2, una nueva guía para la ciberseguridad europea -  https://www2.deloitte.com/content/dam/Deloitte/es/Documents/riesgos/deloitte-es-risk-directiva-nis2.pdf
 
   # Comparativo NIST vs NIS
 
@@ -44,4 +45,3 @@ La Directiva NIS establece una serie de requisitos para los Estados miembros de 
 | **Auditoría y control**    |                              |                              |
 | **Actualización y adaptación** |                          |                              |
 
-3.  Directiva NIS 2, una nueva guía para la ciberseguridad europea -  https://www2.deloitte.com/content/dam/Deloitte/es/Documents/riesgos/deloitte-es-risk-directiva-nis2.pdf
