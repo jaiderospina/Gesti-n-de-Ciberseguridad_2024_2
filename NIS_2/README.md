@@ -19,12 +19,29 @@ La Directiva NIS establece una serie de requisitos para los Estados miembros de 
 ## ACTIVIDAD  EN CLASE  CASO DE ESTUDIO
 
 1. Realizar de manera individual la lectura "Directiva NIS 2, una nueva guía para la ciberseguridad europea" (referencia 2).
-2. Tomando las refrencias citadas  realizar en grupos un mapa mental de la anterior referencia, y ampliar su explicación mediante la refrencia No 1.
-3. Subir la evidencia en la carpeta con título TAREA_NIS 2
+2. Tomando las refrencias citadas  realizar en grupos la siguiente tabla comparativa.
+3. Subir la evidencia en este README, como una carpeta con el nombre (número) del grupo.
 4. Sustentar en clase
 
 
 # REFERENCIAS.
 
 1.  Directiva UE 2022 / 2555 https://www.boe.es/doue/2022/333/L00080-00152.pdf
-2.  Directiva NIS 2, una nueva guía para la ciberseguridad europea -  https://www2.deloitte.com/content/dam/Deloitte/es/Documents/riesgos/deloitte-es-risk-directiva-nis2.pdf
+
+  # Comparativo NIST vs NIS
+
+|                           | **NIST CSF 2.0**             | **NIS 2 (directiva)**        |
+|---------------------------|------------------------------|------------------------------|
+| **Objetivo**               |                              |                              |
+| **Cobertura Geográfica**   |                              |                              |
+| **Ámbito de aplicación**   |                              |                              |
+| **Componentes Claves**     |                              |                              |
+| **Cumplimiento**           |                              |                              |
+| **Evaluación de riesgos**  |                              |                              |
+| **Notificación de incidentes** |                          |                              |
+| **Gobernanza y gestión**   |                              |                              |
+| **Sanciones**              |                              |                              |
+| **Auditoría y control**    |                              |                              |
+| **Actualización y adaptación** |                          |                              |
+
+3.  Directiva NIS 2, una nueva guía para la ciberseguridad europea -  https://www2.deloitte.com/content/dam/Deloitte/es/Documents/riesgos/deloitte-es-risk-directiva-nis2.pdf
