@@ -11,11 +11,9 @@ El **ROI (Return on Investment)** es una métrica financiera ampliamente utiliza
 #### **Fórmula del ROI**
 
 
-[ROSI](https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/blob/main/ROSI/images/roi.png)
+![ROI](/ROSI/images/roi.png)
 
-\[
-ROI = \frac{\text{Ganancia neta}}{\text{Costo de la inversión}} \times 100
-\]
+
 
 - **Ganancia neta:** Es la diferencia entre los ingresos generados por la inversión y los costos asociados a esa inversión.
 - **Costo de la inversión:** Es la cantidad total de dinero que se invirtió en el proyecto.
@@ -45,9 +43,8 @@ El **ROSI (Return on Security Investment)** es una métrica específica utilizad
 
 #### **Fórmula del ROSI**
 
-\[
-ROSI = \frac{\text{Beneficio en seguridad} - \text{Costo de la inversión}}{\text{Costo de la inversión}} \times 100
-\]
+
+![ROI](/ROSI/images/rosi.png)
 
 - **Beneficio en seguridad:** Es la cantidad de dinero que se espera ahorrar o las pérdidas que se espera evitar debido a la implementación de una medida de seguridad.
 - **Costo de la inversión:** Es el costo de implementar la solución de seguridad (por ejemplo, la compra de software, capacitación, etc.).
