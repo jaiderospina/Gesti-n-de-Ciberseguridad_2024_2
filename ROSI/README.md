@@ -10,6 +10,9 @@ El **ROI (Return on Investment)** es una métrica financiera ampliamente utiliza
 
 #### **Fórmula del ROI**
 
+
+[ROSI](https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/blob/main/ROSI/images/roi.png)
+
 \[
 ROI = \frac{\text{Ganancia neta}}{\text{Costo de la inversión}} \times 100
 \]
