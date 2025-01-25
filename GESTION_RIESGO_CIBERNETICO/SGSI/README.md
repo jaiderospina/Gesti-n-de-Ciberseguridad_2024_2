@@ -1,9 +1,3 @@
-## Indice
-
-*  [Contenido 1](#Mapa de Procesos)
-* **[Mapa de Procesos](#Mapa de Procesos):** Una breve descripción del proyecto.
-
-
 
 ### **Mapa de Procesos**
 
