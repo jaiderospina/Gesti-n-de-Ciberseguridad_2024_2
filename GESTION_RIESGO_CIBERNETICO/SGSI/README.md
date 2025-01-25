@@ -117,3 +117,49 @@ Los procesos del SGSI se estructuran en torno al ciclo de mejora continua **Plan
 4. **Soporte en auditorías:** Proporciona un marco claro para demostrar la conformidad y la gestión eficiente.  
 
 Un mapa de procesos no solo guía la implementación de sistemas de gestión, sino que también fomenta la mejora continua y la eficiencia organizacional.
+
+
+
+### **Tipos de Controles en la ISO/IEC 27001:2022**
+
+La norma ISO/IEC 27001:2022 clasifica los controles de seguridad en **4 categorías temáticas**, basándose en la reorganización de los controles introducida por la ISO/IEC 27002:2022. Estos controles ayudan a gestionar riesgos y proteger la información, garantizando su confidencialidad, integridad y disponibilidad.
+
+---
+
+### **Cuadro Resumen de los Tipos de Controles**
+
+| **Categoría de Control**       | **Descripción**                                                                                   | **Ejemplo de Control**                                                                                     | **Ejemplo Práctico**                                                                                       |
+|--------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Controles Organizativos**    | Establecen políticas, roles, responsabilidades y procesos para la gestión de la seguridad de la información. | - Políticas de seguridad de la información. <br>- Gestión del riesgo de la información.                    | - Implementar una política de acceso lógico para sistemas críticos. <br>- Identificar y evaluar riesgos periódicamente. |
+| **Controles de Personas**      | Se enfocan en la gestión del comportamiento humano, incluyendo la formación y concienciación.    | - Capacitación en seguridad de la información. <br>- Roles y responsabilidades claras.                     | - Realizar talleres anuales de concienciación para empleados sobre ataques de phishing.                   |
+| **Controles Físicos**          | Proveen medidas para proteger los activos físicos y las instalaciones de la organización.         | - Seguridad perimetral. <br>- Control de acceso físico a oficinas o centros de datos.                      | - Implementar cámaras de seguridad y controles biométricos en áreas restringidas.                         |
+| **Controles Tecnológicos**     | Se centran en medidas técnicas para proteger la información y los sistemas informáticos.          | - Configuración segura de redes. <br>- Monitoreo continuo y detección de intrusos.                         | - Usar un firewall para filtrar tráfico no autorizado y herramientas SIEM para detectar incidentes.        |
+
+---
+
+### **Descripción Detallada y Ejemplos**
+
+1. **Controles Organizativos:**
+   - **Descripción:** Involucran la gobernanza de la seguridad de la información, alineando políticas y procesos con los objetivos organizacionales.  
+   - **Ejemplo:** Política de seguridad de la información que define roles y responsabilidades en la protección de datos.
+
+2. **Controles de Personas:**
+   - **Descripción:** Enfocados en el factor humano, estos controles buscan crear una cultura de seguridad mediante formación y asignación de roles.  
+   - **Ejemplo:** Establecer un proceso de verificación de antecedentes para empleados que manejan información sensible.
+
+3. **Controles Físicos:**
+   - **Descripción:** Diseñados para proteger las instalaciones y activos físicos contra accesos no autorizados o daños.  
+   - **Ejemplo:** Implementar cerraduras electrónicas y sistemas de identificación por tarjeta en el centro de datos.
+
+4. **Controles Tecnológicos:**
+   - **Descripción:** Incluyen tecnologías y configuraciones para prevenir, detectar y responder a incidentes relacionados con los sistemas de información.  
+   - **Ejemplo:** Implementar autenticación multifactor (MFA) para el acceso a sistemas críticos.
+
+---
+
+### **Importancia de los Controles en un SGSI**
+- **Gestión de riesgos:** Reducen las vulnerabilidades y amenazas identificadas.  
+- **Cumplimiento normativo:** Ayudan a cumplir con regulaciones legales y contractuales.  
+- **Protección integral:** Ofrecen medidas desde el nivel organizacional hasta el nivel técnico y físico.
+
+Este enfoque holístico asegura una defensa robusta contra riesgos internos y externos.
