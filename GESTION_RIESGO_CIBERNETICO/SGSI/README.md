@@ -1,10 +1,11 @@
 ## Indice
 
+*  [Contenido 1](#Mapa de Procesos)
 * **[Mapa de Procesos](#Mapa de Procesos):** Una breve descripción del proyecto.
 
 
 
-## **Mapa de Procesos**
+### **Mapa de Procesos**
 
 Un **mapa de procesos** es una representación gráfica que identifica, organiza y relaciona los procesos clave de una organización, mostrando cómo interactúan entre sí para alcanzar los objetivos estratégicos, operativos y de calidad. Sirve como una herramienta para comprender y gestionar las actividades de la organización de manera eficiente y alineada con sus metas.
 
