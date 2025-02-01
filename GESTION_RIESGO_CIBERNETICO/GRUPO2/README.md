@@ -1,5 +1,9 @@
 # Plan de trabajo para certificacion ISO/IEC 27001:2022 (Caso de estudio Clinica Shaio)
 
+* Tatiana Sánchez
+* Miguel Amaya
+* Cristian Toro
+* Andrés Parrado
 
 ## Documentación
 
