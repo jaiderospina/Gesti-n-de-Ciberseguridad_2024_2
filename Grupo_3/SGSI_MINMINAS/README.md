@@ -14,7 +14,4 @@ El Ministerio de Minas y Energía de Colombia lidera la formulación y adopción
 
 El SGSI del Ministerio de Minas y Energía se aplicará a todos los sistemas de información, plataformas de interoperabilidad, tableros de datos y bases documentales utilizadas en la gestión del sector minero-energético y nuclear. Incluirá la protección de información en procesos clave como exploración, explotación, refinación, transmisión y comercialización de recursos energéticos. Además, se extenderá a la gestión interna del Ministerio, abarcando datos administrativos, financieros y de talento humano. También cubrirá las agencias adscritas, colaboradores y proveedores estratégicos, estableciendo políticas y lineamientos para el adecuado manejo de la información y garantizando su confidencialidad, integridad y disponibilidad en toda la cadena de valor.
 
-<iframe
-  src="https://www.minenergia.gov.co/es/ministerio/gesti%C3%B3n/procesos-y-procedimientos/"
-  style="width:100%; height:300px;"
-></iframe>
+![alt text](https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/blob/main/Grupo_3/SGSI_MINMINAS/mapaProcesos-MME-2023.jpg?raw=true)
