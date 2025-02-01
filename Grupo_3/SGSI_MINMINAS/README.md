@@ -1,4 +1,4 @@
-# Sistema de Gestión de Seguridad de la Información (SGSI) - MINISTERIO DE MINIAS Y ENERGIA
+# Sistema de Gestión de Seguridad de la Información (SGSI) - MINISTERIO DE MINAS Y ENERGIA
 
 ## Misión
 Formular y adoptar políticas dirigidas al aprovechamiento sostenible de los recursos mineros y energéticos para contribuir al desarrollo económico y social del país.
