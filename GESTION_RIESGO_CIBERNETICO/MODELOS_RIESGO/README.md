@@ -43,7 +43,7 @@ PASTA se enfoca en alinear la seguridad con los objetivos comerciales y prioriza
 Ambos métodos son valiosos para el modelado de amenazas, pero su elección depende de las necesidades específicas de la organización, la complejidad del sistema y los objetivos de seguridad. STRIDE es adecuado para equipos nuevos o sistemas menos complejos, mientras que PASTA es ideal para organizaciones que requieren un análisis de riesgos más profundo y alineado con los objetivos comerciales [[2]](https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodologies)[[3]](https://www.datasunrise.com/es/centro-de-conocimiento/modelo-de-amenazas-stride/).
 
 ---
-Learn more:
+Referencias:
 1. [Software Secured | Comparison of STRIDE, DREAD & PASTA | USA](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta)
 2. [STRIDE vs PASTA - A Comparison of Threat Modeling Methodologies](https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodologies)
 3. [Modelo de Amenazas STRIDE](https://www.datasunrise.com/es/centro-de-conocimiento/modelo-de-amenazas-stride/)
